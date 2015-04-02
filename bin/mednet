@@ -1,3 +1,17 @@
 #!/usr/bin/env ruby
 
 require 'mednet'
+
+parser = Mednet::Parser.new
+
+count = 0
+stop = 10
+
+ARGF.each do |line|
+  if line =~ /^\s*<br>/
+    data = parser.parse line
+    puts data.inspect
+    count += 1
+  end
+  break if count > stop
+end

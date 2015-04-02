@@ -1,0 +1,303 @@
+  13
+   1 Abraham
+   1 Accursius
+   1 Adjutus and Otto)
+   1 Agapius
+   2 Alexander
+   1 Ambrosimus
+   1 Andrew
+   1 Apostle of Burgundy
+   1 Apostle of Sweden
+   1 Apostle to England
+   1 Apostle to Ireland
+   1 Apostle to Saxony
+   1 Apulia)
+   1 Archinimus
+   1 Arthemius and Honesta
+   1 Asterius
+   1 Ater
+   2 Auvergne)
+   1 Azarias and Misael
+   1 Barachisius
+   1 Benedict and companions)
+   1 Bithynia)
+   1 Canterbury)
+   2 Cantianilla
+   2 Cantianus
+   1 Carmelite
+   1 Carnarvonshire)
+   1 Cassius and Florentius)
+   1 Chionia
+   1 Chronion
+   1 Ctesiphon
+   1 Dativa
+   1 Dativus
+   1 Davitus
+   1 Deposition)
+   1 Dionysia
+   1 Dionysius
+  39 Doctor of the Church
+   1 Doctors of the Church
+   1 Dominic)
+   1 Domnina
+   2 Dorothy
+   1 Edward Powell
+   1 Egypt)
+   2 Eleosippus
+   2 Eleuterius)
+   1 Elevation)
+   1 Elm)
+   1 Eutychius
+   1 Eventius
+   1 Exuperantius
+   1 Exupery and Felicianus
+   4 Father of the Church
+   1 Faustinus and Beatrice
+   1 Faustinus and Beatrice)
+   1 Felicitas
+   3 Felix
+   1 Flavian
+   2 Fortunatus and Achilleus
+   1 George Haydock
+   1 Habebus
+   3 Hope
+   1 Hope and Charity
+   1 Hyacinthus and Amantius)
+   1 Iceland)
+   4 Ireland)
+   1 Irene
+   1 Isaac
+   1 Isaac and Jacob
+   1 Isaias
+   1 Jader
+   1 James
+   1 James Walworth
+   1 Januaris
+   1 Jeremy
+   2 John
+   1 John Ireland
+   1 John Mundyn
+   1 John Nutter
+   1 Joseph
+   1 Julian
+   1 Kineswide
+   1 Latinus and Exuperantius
+   1 Limerick)
+   3 Lucius
+   1 Luke Kirby
+   1 Maestricht
+   1 Mahanes
+   2 Malchus
+   1 Marcianus
+   1 Marian
+   1 Martha
+   1 Martinian
+   1 Martyrius and Alexander
+   1 Maurus and Daria)
+   2 Meath)
+   1 Meaux)
+   1 Meleosippus
+   1 Mercutia
+   1 Meschach
+   2 Modestus and Crescentia
+   1 Modestus and Florentia
+   1 Mother of God
+   3 Mother of Mary
+   1 Mother of the Blessed Virgin Mary
+   1 Nabor and Nazarius
+   1 Neon
+   1 Nestorius
+   2 Northumberland)
+   1 Ordination)
+   1 Orontius and Victor
+   1 Our Lady Help of Christians
+   1 Our Lady of Grace
+   1 Our Lady of Lourdes
+   1 Our Lady of Mount Carmel
+   1 Our Lady of Sorrows
+   1 Pa termuthes
+   1 Papylas
+   1 Paragrus
+   1 Paris
+   1 Paris)
+   1 Peregrinus and Vincent
+   1 Peter
+   1 Philemon
+   1 Philip
+   1 Philothea
+   1 Pontianus
+   1 Primolus
+   1 Probus
+   1 Quirinus
+   1 Ralph Sherwine
+   1 Regina
+   1 Reims
+   1 Respicius and Nympha
+   1 Rhenus
+   1 Richard Kirkman
+   1 Romanus
+   2 Rome
+   1 Salvinus and Arator
+   1 Samual and Daniel
+   1 Scotland)
+   1 Serapion
+   1 Serenus
+   1 Silvanus
+   1 Sina
+   2 Soissons)
+   1 Suffolk)
+   2 Sweden)
+   1 Tharba
+   1 Thecla and Erasma
+   1 Thomas Ford
+   1 Thomas More
+   1 Valentine
+   1 Valerian
+   1 Victoricus
+   3 Victoricus and Gentian
+   1 Vilbeta
+   1 Vitalis
+   1 William Filby
+   1 Worbeta
+   1 Worms)
+   1 Zeno
+   1 Zenobius
+x   2 a boy
+x   1 abbes ERR:abbess
+x  38 abbess
+x 289 abbot
+   1 abbot and companions
+x   2 abbots
+x   1 achoret ERR:anchoret
+x   1 anchoress
+x  13 anchoret
+x   1 anchorite
+   1 and Abednego
+   1 and Agathodorus
+   1 and Alexander
+   1 and All Angels Dedication of St Michael s at Monte Gargano
+   1 and Ammonarium)
+   1 and Ancia
+   1 and Andronicus
+   1 and Besas
+   1 and Cerealus)
+   3 and Charity)
+   1 and Constantine)
+   1 and Cyprian
+   1 and Donatian
+   1 and Euatachius
+   1 and Eusebius
+   1 and Ferrutius
+   1 and Heraclidas
+   1 and Hippolytus
+   1 and Isidore)
+   1 and John Larke
+   1 and Lollianus)
+   1 and Martialis
+   1 and Martialis)
+   1 and Mary
+   1 and Maximus
+   1 and Meleosippus
+   1 and Methodius
+   1 and Nestor
+   1 and Paul
+   1 and Philoromus
+   1 and Richard Featherstone
+   1 and Richard Thirkill
+   1 and Saturas
+   1 and Sebastian
+   1 and Simeon
+   1 and Thecla
+   1 and Theodolus
+   1 and Theonilla
+   1 and Thomas Hemerford
+   1 and Tibba
+   1 and Totnam
+   1 and Venustianus)
+   1 and Verda
+   1 and companion
+  52 and companions
+   3 and daughters
+   1 and sons
+x  29 apostle
+   1 apostle Dedication of St John Lateran
+   1 apostle to England
+x   5 apostles
+   1 apostles Dedication of St Peter s and St Paul s
+x   1 archangel
+x   2 archdeacon
+   1 at Lyon)
+x 1325 bishop
+x   2 bishop)
+x  25 bishops
+   1 brothers
+x   1 canon
+x   3 cardinal
+x 1027 confessor
+   4 confessor)
+   1 confessor:
+x  14 confessors
+x   7 count
+x   1 countess
+x  18 deacon
+   1 deacon)
+x   1 disciple of Christ
+x   5 duchess
+x   9 duke
+x   4 earl
+x   6 emperor
+x   7 empress
+x  10 evangelist
+   1 falsely
+x   7 friar
+x  58 hermit
+   1 his mother
+   3 host of Christ
+   1 husband of the Blessed Virgin Mary
+x  54 king
+x   1 lector
+x   2 marquis
+x 861 martyr
+   2 martyr)
+x 351 martyrs
+   1 martyrs and confessors
+x   6 matron
+x  31 monk
+   1 mother of Kentigern
+   1 mother of Mary
+x   2 natale)
+x   5 nun
+   1 of Lorraine
+   1 of Maurus
+   1 of Mochuda)
+   1 of the Rosary
+   1 or Auxerre)
+   1 or Bourges)
+   1 or martyr
+x   1 patriarchs
+x   3 penitent
+x  98 pope
+x   4 popes
+x 156 priest
+   1 priest and Aitillaha
+x   6 priests
+x   3 prince
+x   3 prior
+x   1 proconsul
+x   3 prophet
+x   6 protomartyr
+x  18 queen
+x   9 recluse
+x   2 soldier
+x   1 subdeacon
+   1 the Great)
+   1 the Hospitaler
+   5 the archangel
+   1 the archangel Dedication of the church of Michael at Monte Tumba
+   3 the first hermit
+   1 tribune
+x 328 virgin
+x  22 virgins
+x  49 widow
+   1 wife of Gondebert
+   1 with their eight children
