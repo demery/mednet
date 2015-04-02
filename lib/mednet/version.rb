@@ -1,0 +1,3 @@
+module Mednet
+  VERSION = "0.0.1"
+end
