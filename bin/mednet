@@ -1,17 +1,27 @@
 #!/usr/bin/env ruby
-
 require 'mednet'
+require 'csv'
 
 parser = Mednet::Parser.new
 
 count = 0
-stop = 10
+stop = 40
 
-ARGF.each do |line|
-  if line =~ /^\s*<br>/
-    data = parser.parse line
-    puts data.inspect
-    count += 1
+output_dir = File.expand_path '../../output', __FILE__
+outfile = File.join(output_dir, 'junk.csv')
+
+CSV.open outfile, 'wb' do |csv|
+  ARGF.each do |line|
+    if line =~ /^\s*<br>/
+      data = parser.parse line
+      row = []
+      row << data.name
+      row << data.attrs.join('|')
+      row << data.mods.join('|')
+      row << data.sources.join('|')
+      csv << row
+    end
   end
-  break if count > stop
 end
+
+puts "Wrote #{outfile}"

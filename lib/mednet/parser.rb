@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
 require 'htmlentities'
 require 'ostruct'
+require 'pp'
 
 module Mednet
   class Parser
 
     FEAST_MODE  = 0
-    ATTRS_MODE   = 1
-    SOURCE_MODE = 2
+    ATTRS_MODE  = 1
+    MODS_MODE   = 2
+    SOURCE_MODE = 4
 
     TYPOS = {
       'achoret' => 'anchoret',
@@ -58,8 +60,129 @@ module Mednet
     # that date in most of the sources consulted. If no source is
     # given for a particular listing, that means the feast is pretty
     # much universal.
-
     SOURCES = %w{ HBD BLS GTZ MR PCP WTS HCC PRI 6028 common }
+
+    MONTHS =  %w{
+        January
+        February
+        March
+        April
+        May
+        June
+        July
+        August
+        September
+        October
+        November
+        December
+    }
+
+    ATTRIBUTES =  %w{
+      Doctors
+      abbes
+      abbess
+      abbot
+      abbots
+      achoret
+      anchoress
+      anchoret
+      anchorite
+      apostle
+      apostles
+      archangel
+      archdeacon
+      bishop
+      bishops
+      boy
+      canon
+      cardinal
+      confessor
+      confessors
+      count
+      countess
+      deacon
+      disciple
+      duchess
+      duke
+      earl
+      emperor
+      empress
+      evangelist
+      friar
+      friars
+      hermit
+      host
+      king
+      kings
+      lector
+      marquis
+      martyr
+      martyrs
+      matron
+      monk
+      nun
+      patriarchs
+      penitent
+      pope
+      popes
+      priest
+      priests
+      prince
+      prior
+      proconsul
+      prophet
+      protomartyr
+      queen
+      recluse
+      soldier
+      subdeacon
+      tribune
+      virgin
+      virgins
+      widow
+    }
+
+    MODS = %w{
+      Advent
+      Assumption
+      Beheading
+      Candlemass
+      Canonization
+      Commemoration
+      Conception
+      Conversion
+      Death
+      Deposition
+      Display
+      Elevation
+      Exceptio
+      Impression
+      Ingression
+      Invention
+      Miracle
+      Nativity
+      Obitus
+      Octave
+      Ordination
+      Portatio
+      Purification
+      Reception
+      Recollection
+      Relatio
+      Revelation
+      Subvention
+      Transitus
+      Translation
+      Vigil
+    }
+
+    ATTRIBUTES_REGEX = /#{ATTRIBUTES.join('|')}/
+
+    MODS_REGEX       = /#{MODS.join('|')}/
+
+    SOURCES_REGEX    = /^#{SOURCES.join('|')}$/
+
+    MONTH_REGEX      = /#{MONTHS.join('|')}/
 
     PUNCTUATION = [ :open_tag,
                     :close_tag,
@@ -73,94 +196,40 @@ module Mednet
                     :comma
                   ]
 
-    ATTRIBUTES = [ 'a boy',
-                   'abbes',
-                   'abbess',
-                   'abbot',
-                   'abbots',
-                   'achoret',
-                   'anchoress',
-                   'anchoret',
-                   'anchorite',
-                   'apostle',
-                   'apostles',
-                   'archangel',
-                   'archdeacon',
-                   'bishop',
-                   'bishops',
-                   'canon',
-                   'cardinal',
-                   'confessor',
-                   'confessors',
-                   'count',
-                   'countess',
-                   'deacon',
-                   'disciple of Christ',
-                   'duchess',
-                   'duke',
-                   'earl',
-                   'emperor',
-                   'empress',
-                   'evangelist',
-                   'friar',
-                   'hermit',
-                   'king',
-                   'lector',
-                   'marquis',
-                   'martyr',
-                   'martyrs',
-                   'matron',
-                   'monk',
-                   'natale',
-                   'nun',
-                   'patriarchs',
-                   'penitent',
-                   'pope',
-                   'popes',
-                   'priest',
-                   'priests',
-                   'prince',
-                   'prior',
-                   'proconsul',
-                   'prophet',
-                   'protomartyr',
-                   'queen',
-                   'recluse',
-                   'soldier',
-                   'subdeacon',
-                   'virgin',
-                   'virgins',
-                   'widow'
-                 ]
-
-
     def parse line
       raise "Can't parse nil" if line.nil?
       lexed = lex_line line
+      # puts lexed.pretty_inspect
       parsed_line = build_sections lexed
     end
 
     # Split line into words and punctuation
     def lex_line line
       s = HTMLEntities.new.decode line.strip
-      s.chars.chunk{ |c|
-        case c
-        when /\n/ then :endline
-        when /</  then :open_tag
-        when />/  then :close_tag
-        when /\(/ then :open_paren
-        when /\)/ then :close_paren
-        when /:/  then :colon
-        when /;/  then :semi_colon
-        when /\./ then :period
-        when /\w/ then :word
-        when /,/  then :comma
-        when /\[/ then :open_bracket
-        when /\]/ then :close_bracket
+      s.scan(/\w+|[[:punct:]<>]/).chunk{ |token|
+        # puts token.inspect
+        case token
+        when /\n/             then :endline
+        when /</              then :open_tag
+        when />/              then :close_tag
+        when /\(/             then :open_paren
+        when /\)/             then :close_paren
+        when /:/              then :colon
+        when /;/              then :semi_colon
+        when /\./             then :period
+        when /,/              then :comma
+        when /\[/             then :open_bracket
+        when /\]/             then :close_bracket
+        when 'of'             then :of
+        when 'and'            then :and
+        when ATTRIBUTES_REGEX then :attribute
+        when SOURCES_REGEX    then :source
+        when MODS_REGEX       then :mod
+        when /\w/             then :word
         end
-      }.map { |seg|
-        seg[1] = seg.last.join
-        seg
+      }.map { |chk|
+        chk[1] = format(chk.last).strip
+        chk
       }
     end
 
@@ -175,45 +244,46 @@ module Mednet
       name = []
       attrs = []
       sources = []
-
+      mods = []
       state = FEAST_MODE
+      # puts "#{lexed_line}"
       while lexed_line.size > 0
         type, value = lexed_line.first
         case
         when type == :open_tag
           remove_tag lexed_line
-        when state == FEAST_MODE && type == :word
+        when state == FEAST_MODE
           name = extract_feast lexed_line
           state = ATTRS_MODE
         when state == ATTRS_MODE
           attrs = extract_attrs lexed_line
+          state = MODS_MODE
+        when state == MODS_MODE
+          mods = extract_mods lexed_line
           state = SOURCE_MODE
         when state == SOURCE_MODE
           sources = extract_sources lexed_line
         end
       end
-      OpenStruct.new name: name, attrs: attrs, sources: sources
+      OpenStruct.new name: name, attrs: attrs, mods: mods, sources: sources
     end
 
     def extract_feast lexed_line
       feast  = []
       loop do
-        type, value = lexed_line.first
-        if type == :word
-          feast << value
-          lexed_line.shift
-        elsif attribute_next? lexed_line
+        if attribute_next? lexed_line
+          break
+        elsif mod_next? lexed_line
           break
         elsif source_next? lexed_line
           break
         else
-          feast << value
-          lexed_line.shift
+          feast << lexed_line.shift.last
         end
         # if there's nothing left, bail
         break if lexed_line.size == 0
       end
-      format *feast
+      format feast
     end
 
     def extract_attrs lexed_line
@@ -222,27 +292,51 @@ module Mednet
       loop do
         type, value = lexed_line.first
         # puts "extract_attrs type: #{type.inspect} value: #{value}"
-        if ATTRIBUTES.include? value
+        if value =~ ATTRIBUTES_REGEX
           curr_attr << value
           lexed_line.shift
         elsif source_next? lexed_line
-          attrs << format(*curr_attr) if curr_attr.size > 0
+          attrs << format(curr_attr) if curr_attr.size > 0
+          break
+        elsif mod_next? lexed_line
+          attrs << format(curr_attr) if curr_attr.size > 0
           break
         elsif attribute_next? lexed_line
-          attrs << format(*curr_attr) if curr_attr.size > 0
+          attrs << format(curr_attr) if curr_attr.size > 0
           curr_attr.clear
           lexed_line.shift
         else
           curr_attr << value
           lexed_line.shift
-        # elsif PUNCTUATION.include? type
-        #   attrs << curr_attr.join(' ')
-        #   curr_attr.clear
-        #   lexed_line.shift
         end
         break if lexed_line.size == 0
       end
       attrs
+    end
+
+    def extract_mods lexed_line
+      mods = []
+      curr_mod = []
+      loop do
+        type, value = lexed_line.first
+        # puts "extract_attrs type: #{type.inspect} value: #{value}"
+        if value =~ MODS_REGEX
+          curr_mod << value
+          lexed_line.shift
+        elsif source_next? lexed_line
+          mods << format(curr_mod) if curr_mod.size > 0
+          break
+        elsif mod_next? lexed_line
+          mods << format(curr_mod) if curr_mod.size > 0
+          curr_mod.clear
+          lexed_line.shift
+        else
+          curr_mod << value
+          lexed_line.shift
+        end
+        break if lexed_line.size == 0
+      end
+      mods
     end
 
     def extract_sources lexed_line
@@ -250,36 +344,28 @@ module Mednet
       # consume the rest of the line
       while lexed_line.size > 0
         type, value = lexed_line.shift
-        sources << value if type == :word && SOURCES.include?(value)
+        sources << value if type == :source
       end
       sources
     end
 
     def attribute_next? lexed_line
-      lexed_line[0,2].any? { |token|
-        type, value = token
-        case
-        when PUNCTUATION.include?(type)
-          # do nothing
-        when type == :word && ATTRIBUTES.include?(value)
-          true
-        end
-      }
+      first, second = lexed_line[0,2].map &:first
+      [ first, second ] == [ :comma, :attribute ] ||
+        [first, second ] == [ :and, :attribute]
+    end
+
+    def mod_next? lexed_line
+      first, second = lexed_line[0,2].map &:first
+      [ first, second ]  == [ :open_paren, :mod ]
     end
 
     def source_next? lexed_line
-      lexed_line[0,2].any? { |token|
-        type, value = token
-        case
-        when PUNCTUATION.include?(type)
-          # do nothing
-        when type == :word && SOURCES.include?(value)
-          true
-        end
-      }
+      first, second = lexed_line[0,2].map &:first
+      [ first, second ]  == [ :open_bracket, :source ]
     end
 
-    def format *strings
+    def format strings=[]
       strings.reduce([]) { |map,token|
         case token
         when /[\(\[]/ # :no_space_after
