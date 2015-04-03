@@ -57,21 +57,6 @@ module Mednet
     # much universal.
     SOURCES = %w{ HBD BLS GTZ MR PCP WTS HCC PRI 6082 common }
 
-    MONTHS =  %w{
-        January
-        February
-        March
-        April
-        May
-        June
-        July
-        August
-        September
-        October
-        November
-        December
-    }
-
     # ATTRIBUTES does not include typos: achoret, abbes
     # see the TYPOS hash below, which has corrections
     ATTRIBUTES =  %w{
@@ -176,8 +161,6 @@ module Mednet
     MODS_REGEX       = /#{MODS.join('|')}/
 
     SOURCES_REGEX    = /^#{SOURCES.join('|')}$/
-
-    MONTH_REGEX      = /#{MONTHS.join('|')}/
 
     # punctuation token types
     PUNCTUATION      = [ :open_tag,
