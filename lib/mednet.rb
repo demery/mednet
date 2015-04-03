@@ -1,5 +1,5 @@
 require "mednet/version"
-require 'mednet/parser'
+require 'mednet/feast'
 
 module Mednet
 

@@ -3,7 +3,7 @@ require 'mednet'
 require 'csv'
 require 'htmlentities'
 
-parser = Mednet::Parser.new
+parser = Mednet::Feast.new
 
 count = 0
 stop = 40

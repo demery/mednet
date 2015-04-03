@@ -4,7 +4,7 @@ require 'ostruct'
 require 'pp'
 
 module Mednet
-  class Parser
+  class Feast
 
     FEAST_MODE  = 0
     ATTRS_MODE  = 1
