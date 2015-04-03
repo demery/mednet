@@ -60,7 +60,7 @@ module Mednet
     # that date in most of the sources consulted. If no source is
     # given for a particular listing, that means the feast is pretty
     # much universal.
-    SOURCES = %w{ HBD BLS GTZ MR PCP WTS HCC PRI 6028 common }
+    SOURCES = %w{ HBD BLS GTZ MR PCP WTS HCC PRI 6082 common }
 
     MONTHS =  %w{
         January
