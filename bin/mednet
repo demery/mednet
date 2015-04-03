@@ -11,6 +11,7 @@ output_dir = File.expand_path '../../output', __FILE__
 outfile = File.join(output_dir, 'junk.csv')
 
 CSV.open outfile, 'wb' do |csv|
+  csv << %w{ Feast Attributes Modifiers Sources }
   ARGF.each do |line|
     if line =~ /^\s*<br>/
       data = parser.parse line
