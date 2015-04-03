@@ -11,11 +11,6 @@ module Mednet
     MODS_MODE   = 2
     SOURCE_MODE = 4
 
-    TYPOS = {
-      'achoret' => 'anchoret',
-      'abbes' => 'abbess'
-    }
-
     # The various abbreviations that appear in the entry above
     # indicate the sources from which the information was drawn. The
     # sources consulted for this project were:
@@ -77,13 +72,13 @@ module Mednet
         December
     }
 
+    # ATTRIBUTES does not include typos: achoret, abbes
+    # see the TYPOS hash below, which has corrections
     ATTRIBUTES =  %w{
       Doctors
-      abbes
       abbess
       abbot
       abbots
-      achoret
       anchoress
       anchoret
       anchorite
@@ -184,23 +179,27 @@ module Mednet
 
     MONTH_REGEX      = /#{MONTHS.join('|')}/
 
-    PUNCTUATION = [ :open_tag,
-                    :close_tag,
-                    :open_paren,
-                    :close_paren,
-                    :open_bracket,
-                    :close_bracket,
-                    :colon,
-                    :semi_colon,
-                    :period,
-                    :comma
-                  ]
+    # punctuation token types
+    PUNCTUATION      = [ :open_tag,
+                         :close_tag,
+                         :open_paren,
+                         :close_paren,
+                         :open_bracket,
+                         :close_bracket,
+                         :colon,
+                         :semi_colon,
+                         :period,
+                         :comma
+                       ]
 
-    WORDS = [ :attribute,
-              :source,
-              :mod,
-              :word
-            ]
+    # word token types
+    WORDS            = [ :attribute,
+                         :source,
+                         :mod,
+                         :word
+                       ]
+
+    TYPOS = { 'achoret' => 'anchoret', 'abbes' => 'abbess' }
 
     def parse line
       raise "Can't parse nil" if line.nil?
@@ -212,8 +211,9 @@ module Mednet
     # Split line into words and punctuation
     def lex_line line
       s = HTMLEntities.new.decode line.strip
-      s.scan(/\w+|[[:punct:]<>]/).chunk{ |token|
-        # puts token.inspect
+      s.scan(/\w+|[[:punct:]<>]/).map { |s|
+        fix_typo(s) # fix any typos
+      }.chunk{ |token|
         case token
         when /\n/             then :endline
         when /</              then :open_tag
@@ -403,6 +403,11 @@ module Mednet
           map << ' '
         end
       }.join.strip
+    end
+
+    # If there's a type for word, return it; otherwise, return word
+    def fix_typo word
+      TYPOS[word] || word
     end
   end
 end
