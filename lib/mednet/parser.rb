@@ -251,7 +251,7 @@ module Mednet
       state = FEAST_MODE
       # puts "#{lexed_line}"
       while lexed_line.size > 0
-        type, value = lexed_line.first
+        type, token = lexed_line.first
         case
         when type == :open_tag
           remove_tag lexed_line
@@ -274,7 +274,7 @@ module Mednet
     def extract_feast lexed_line
       feast  = []
       loop do
-        type, values = lexed_line.first
+        type, tokens = lexed_line.first
         if attribute_next? lexed_line
           break
         elsif mod_next? lexed_line
@@ -284,7 +284,7 @@ module Mednet
         elsif type == :open_tag
           remove_tag lexed_line
         else
-          values.each { |t| feast << t }
+          tokens.each { |t| feast << t }
           lexed_line.shift
         end
         # if there's nothing left, bail
@@ -297,10 +297,10 @@ module Mednet
       attrs = []
       curr_attr = []
       loop do
-        type, values = lexed_line.first
-        # puts "extract_attrs type: #{type.inspect} value: #{value}"
+        type, tokens = lexed_line.first
+        # puts "extract_attrs type: #{type.inspect} token: #{token}"
         if type == :attribute
-          values.each { |v| curr_attr << v }
+          tokens.each { |t| curr_attr << t }
           lexed_line.shift
         elsif type == :open_tag
           remove_tag lexed_line
@@ -315,7 +315,7 @@ module Mednet
           curr_attr.clear
           lexed_line.shift
         else
-          values.each { |v| curr_attr << v }
+          tokens.each { |t| curr_attr << t }
           lexed_line.shift
         end
         break if lexed_line.size == 0
@@ -328,24 +328,24 @@ module Mednet
       curr_mod = []
       paren_level = 0
       loop do
-        type, values = lexed_line.first
-        # puts "extract_attrs type: #{type.inspect} values: #{values}"
+        type, tokens = lexed_line.first
+        # puts "extract_attrs type: #{type.inspect} tokens: #{tokens}"
         if type == :open_paren
-          values.each { |v|
-            curr_mod << v if paren_level > 0
+          tokens.each { |t|
+            curr_mod << t if paren_level > 0
             paren_level += 1
           }
           lexed_line.shift
         elsif type == :open_tag
           remove_tag lexed_line
         elsif type == :close_paren
-          values.each { |v|
-            curr_mod << v if paren_level > 1
+          tokens.each { |t|
+            curr_mod << t if paren_level > 1
             paren_level -= 1
           }
           lexed_line.shift
         elsif type == :mod
-          values.each  { |v| curr_mod << v }
+          tokens.each  { |t| curr_mod << t }
           lexed_line.shift
         elsif source_next? lexed_line
             mods << format(curr_mod) if curr_mod.size > 0
@@ -355,7 +355,7 @@ module Mednet
           curr_mod.clear
           lexed_line.shift
         else
-          values.each { |v| curr_mod << v }
+          tokens.each { |t| curr_mod << t }
           lexed_line.shift
         end
         break if lexed_line.size == 0
@@ -367,8 +367,8 @@ module Mednet
       sources = []
       # consume the rest of the line
       while lexed_line.size > 0
-        type, values = lexed_line.shift
-        values.each { |v| sources << v } if type == :source
+        type, tokens = lexed_line.shift
+        tokens.each { |t| sources << t } if type == :source
       end
       sources
     end
