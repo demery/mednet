@@ -1,0 +1,4243 @@
+   1 ("a Porta Latina")
+   1 ("ad nives")
+   1 ("in Chains")
+   1 (?)
+m   1 (Advent (of his head)
+m  13 (Advent)
+   1 (Amancius, and Cerealus)
+   1 (Amantus)
+   1 (Ammonarium, Mercutia, Dionysia, and Ammonarium)
+   1 (Ann)
+   1 (Apparition on Monte Gargano)
+   1 (Aquillinus)
+   1 (Ard)
+   1 (Audifax and Abachum)
+   1 (Augurius and Eulogius)
+   1 (Baldassini)
+   1 (Beccelin)
+m   1 (Beheading)
+   1 (Berardus, Peter, Accursius, Adjutus and Otto)
+   1 (Biscop)
+   1 (Breague)
+m   1 (Candlemass)
+m   1 (Canonization)
+   1 (Cantelupe)
+   1 (Chrysanthus, Maurus and Daria)
+m   2 (Commemoration)
+m   1 (Conception)
+m   6 (Conversion)
+   1 (Dabius)
+   1 (Dairchilla)
+m   2 (Death)
+m   7 (Deposition)
+m   1 (Display of relics)
+   1 (Donation, Dominic)
+   1 (Edberge)
+m   5 (Elevation)
+   1 (Eusebia)
+m   1 (Exceptio corporis)
+   3 (Faith, Hope, and Charity)
+   1 (Franciscan)
+   1 (GTZ: more commonly on Feb 6)
+   1 (Germanus)
+   1 (Gevo)
+   1 (Giles)
+   1 (Gruthuysen)
+   1 (Guilleonus)
+   1 (Helier)
+   1 (Heron, Ater, and Isidore)
+   1 (Hilarinus)
+   1 (Himerius)
+   1 (Hipparchus, Philothea, James, Paragrus, Habebus, Romanus, and Lollianus)
+  11 (I)
+   1 (I, the Great)
+  11 (II)
+   2 (III)
+   2 (IX)
+m   1 (Impression of the stigmata)
+m   1 (Ingression)
+m   1 (Invention (of his head)
+m   2 (Invention of his head)
+m   1 (Invention of his right hand)
+m  14 (Invention)
+   1 (Ireneus, Hyacinthus and Amantius)
+   1 (Januarius, Felix, Philip, Silvanus, Alexander, Vitalis, and Martialis)
+   1 (John and companions, Benedict and companions)
+   1 (Largus and Smaragdus)
+   1 (Legier)
+   1 (Leufredus)
+   1 (Levite)
+   1 (Léger)
+   1 (Machar)
+   1 (Manifestation)
+   1 (Mapolice)
+   1 (Marcellus, Exuperantius, and Venustianus)
+   1 (Maximian, Malchus, Martinian, Dionysius, John, Serapion, and Constantine)
+   1 (McLugni)
+   1 (McRonan)
+   1 (Metanoite)
+m   1 (Miracle of the "Mal des ardents")
+   1 (Mungho)
+   1 (Munnu)
+m   1 (Nativity)
+   1 (Nehemias)
+m   1 (Obitus)
+m   2 (Obitus, natale)
+m  16 (Octave)
+   1 (Offradosse)
+   1 (Olman, priest, and Totnam, deacon)
+m   1 (Ordination and Translation)
+m   3 (Ordination)
+   1 (Pancronius)
+   1 (Pastor)
+   1 (Peter de Morono)
+   1 (Pinguesme)
+m   1 (Portatio)
+   1 (Primitivus?)
+   1 (Quirinus and Scuvicolus)
+m   1 (Reception of his arm)
+m   1 (Reception of his face)
+m   1 (Reception)
+m   1 (Recollection of his bones)
+m   3 (Relatio)
+m   6 (Revelation)
+   2 (Rusticus, Eleuterius)
+   1 (S. Wales)
+   1 (Sabas)
+   1 (Sebba)
+   1 (Severus)
+   1 (Simplicius, Faustinus and Beatrice)
+   1 (Sospis)
+m   1 (Subvention)
+   1 (Surin)
+   1 (Telm, Elm)
+   1 (Theodoric)
+   1 (Thierry)
+   1 (Thyrsus and Felix)
+m   2 (Transitus)
+m   1 (Translation (Commemoration)
+m   1 (Translation (Elevation)
+m   1 (Translation (als er gehaben worden ist)
+m   1 (Translation (but not always called such)
+m   1 (Translation (of Lebwin and Radbod)
+m   1 (Translation (of his head)
+m   1 (Translation (vorheving)
+m   1 (Translation of Gentian)
+m   1 (Translation of his head)
+m 258 (Translation)
+m   1 (Translation, Deposition)
+m   1 (Translation, Elevation)
+m   1 (Translation, Ordination)
+m   1 (Translation, of Maurus, Salvinus and Arator, bishops (of Verdun)
+m   1 (Translation?)
+   1 (Triumphus de Steplea)
+   1 (Tyro)
+   2 (V)
+   1 (VII)
+   1 (Victor, Cassius and Florentius)
+m   1 (Vigil of Nativity)
+m  11 (Vigil)
+   1 (Vulfran?)
+   3 (X)
+   1 (XI)
+   1 (Zeno and Felicola)
+   1 (a Becket)
+   2 (and Abundus)
+   1 (and Adulph)
+   1 (and Agricola)
+   1 (and Anastasius)
+   1 (and Castus)
+   1 (and Celsus)
+   1 (and Chromatius)
+   1 (and Delphina)
+   2 (and Dorothy)
+   1 (and Florentius)
+   1 (and Gislarius)
+   1 (and Justin)
+   2 (and Malusius)
+   2 (and Marcellinus)
+   1 (and Protus)
+   1 (and Randoald)
+   1 (and Valerian)
+   3 (and companions)
+   2 (at Agde)
+   2 (at Aix)
+   2 (at Albi)
+   1 (at Angoulême)
+   1 (at Antioch)
+   1 (at Apt)
+   2 (at Arles)
+   1 (at Athens)
+   3 (at Autun)
+   4 (at Auxerre)
+   1 (at Aylesbury)
+   1 (at Barcelona)
+   3 (at Bayeux)
+   1 (at Beauvais)
+   1 (at Beauvais, or Auxerre)
+   3 (at Besançon)
+   1 (at Brict.)
+   1 (at Cambrai)
+   1 (at Chalon-sur-Saône)
+   2 (at Chartres)
+   1 (at Châlons-sur-Marne)
+   2 (at Cluny)
+   1 (at Cocket, Northumberland)
+   2 (at Complutum)
+   2 (at Corbigny)
+   1 (at Cordova)
+   3 (at Dijon)
+   1 (at Eichstädt)
+   1 (at Evreux)
+   1 (at Gerona)
+   1 (at Gueret)
+   1 (at Kilzingen)
+   2 (at Langres)
+   1 (at Laon)
+   3 (at Limoges)
+   1 (at Luxeuil)
+   4 (at Lyon)
+   1 (at Mauberge)
+   2 (at Meaux)
+   1 (at Melun)
+   1 (at Merida)
+   1 (at Micy)
+   1 (at Newcastle, Limerick)
+   1 (at Nîmes)
+   1 (at Orléans)
+   3 (at Paris)
+   2 (at Poitiers)
+   2 (at Prague)
+   1 (at Raithin)
+   1 (at Remiremont)
+   2 (at Rodez)
+   2 (at Rome)
+   1 (at Roskild)
+   1 (at Réome)
+   1 (at Saragossa)
+   1 (at Scete)
+   2 (at Senlis)
+   3 (at Sens)
+   1 (at Sisteron)
+   1 (at Soissons)
+   1 (at St. Gall)
+   1 (at Séez)
+   1 (at Taghmon)
+   1 (at Toulouse)
+   4 (at Tours)
+  13 (at Trier)
+   1 (at Trier, or Bourges)
+  14 (at Troyes)
+   3 (at Tréguier)
+   2 (at Valence)
+   1 (at Vertou)
+   5 (at Vienne)
+   2 (at Whitby)
+   2 (at Winchester)
+   1 (confessor, at Lyon)
+   1 (daughter of Bridget)
+   1 (de Valencia)
+   2 (deposition alse he starff)
+   1 (in Aquit.)
+   3 (in Auvergne)
+   1 (in Brittany)
+   3 (in Ireland)
+   1 (in Numidia)
+   1 (king)
+   3 (knight)
+   1 (more often celebrated on Mar 15)
+   1 (mother of Remigius)
+   2 (mother of Vigilius)
+   1 (of Achonry)
+   1 (of Agen)
+   1 (of Aix en Provence)
+   2 (of Aix)
+   3 (of Albi)
+   1 (of Alcantara)
+   1 (of Alençon)
+   1 (of Alex.)
+  11 (of Alexandria)
+   1 (of Amandola)
+   1 (of Amaranthia)
+   1 (of Amasea)
+   9 (of Amiens)
+   1 (of Ancille)
+   2 (of Ancyra)
+   1 (of Andria)
+   1 (of Andria, Apulia)
+  14 (of Angers)
+   1 (of Angoulême)
+   1 (of Anian)
+  10 (of Antioch)
+   1 (of Aosta)
+   3 (of Apt)
+   3 (of Aquileia)
+   2 (of Aquitaine)
+   1 (of Arbela)
+   1 (of Arbrissel)
+   1 (of Arc)
+   1 (of Arcis)
+   1 (of Ardbreccan, Meath)
+   1 (of Ardmore)
+   1 (of Arethusa)
+   1 (of Arezzo)
+   2 (of Arian)
+   1 (of Arimathea)
+  10 (of Arles)
+   2 (of Armagh)
+   2 (of Arras)
+   1 (of Arsinoe)
+   3 (of Assisi)
+   1 (of Astorga)
+   1 (of Athens)
+   2 (of Auch)
+   1 (of Auchy)
+   2 (of Augsburg)
+   1 (of Aurillac)
+   1 (of Austrasia)
+  14 (of Autun)
+  11 (of Auvergne)
+  27 (of Auxerre)
+   5 (of Avignon)
+   2 (of Avila)
+   6 (of Avranches)
+   3 (of Bamberg)
+   2 (of Bangor)
+   1 (of Barcelona)
+   1 (of Barking)
+   1 (of Basel)
+  11 (of Bayeux)
+   1 (of Beauvais)
+   1 (of Beg Erin)
+   1 (of Bellay)
+   1 (of Belley)
+   1 (of Benchor)
+   1 (of Benevento)
+   1 (of Bergen)
+   8 (of Besançon)
+   1 (of Beverley)
+   1 (of Blangy in Artois)
+   1 (of Bohemia)
+   2 (of Bologna)
+   3 (of Bordeaux)
+  18 (of Bourges)
+   2 (of Braga)
+   5 (of Bremen)
+   1 (of Brescia)
+   2 (of Bridlington)
+   3 (of Brieuc)
+   3 (of Brindisi)
+   1 (of Brixen)
+   2 (of Burgundy)
+   2 (of Béziers)
+   2 (of Caesarea)
+   1 (of Caesaria and Cappadocia)
+   1 (of Caesaria)
+   6 (of Cahors)
+   1 (of Caithness)
+   1 (of Calasanz)
+   7 (of Cambrai)
+   1 (of Cantalicio)
+  12 (of Canterbury)
+   5 (of Canturbury)
+   1 (of Capestrano)
+   1 (of Cappenburg)
+   1 (of Capua)
+   3 (of Carcassonne)
+   3 (of Carpentras)
+   1 (of Carrhae)
+   6 (of Carthage)
+   2 (of Cashel)
+   1 (of Castelnau)
+   1 (of Castile and Leon)
+   6 (of Cavaillon)
+   1 (of Ceann-Garadh)
+   1 (of Chaise-Dieu, Auvergne)
+   4 (of Chalon-sur-Saône)
+   9 (of Chartres)
+   1 (of Chelles)
+   3 (of Chichester)
+   1 (of Chuainednech)
+   1 (of Chur)
+   7 (of Châlons-sur-Marne)
+   1 (of Cilicia)
+   1 (of Cimiez)
+   1 (of Citeaux)
+   6 (of Clermont)
+   1 (of Clogher, Ireland)
+   1 (of Clonard)
+   1 (of Cluain-Iraird)
+   5 (of Cluny)
+   1 (of Clynnog, Carnarvonshire)
+   7 (of Cologne)
+   1 (of Comana)
+   3 (of Comminges)
+   1 (of Connor and Down)
+   1 (of Connor)
+   1 (of Conserans)
+   2 (of Constance)
+  11 (of Constantinople)
+   1 (of Cordova)
+   1 (of Cori)
+   1 (of Corinth)
+   2 (of Cork)
+   1 (of Corleone)
+   2 (of Cortona)
+   1 (of Coutances)
+   1 (of Coûtances)
+   1 (of Crete)
+   2 (of Csanad)
+   1 (of Ctesiphon)
+   1 (of Cupertino)
+   1 (of Cîteaux)
+   1 (of Damascus)
+   1 (of Dax)
+   2 (of Denmark)
+   1 (of Derry)
+   1 (of Digne)
+   3 (of Dol)
+   1 (of Dromore)
+   2 (of Dublin)
+   1 (of Duleek)
+   1 (of Dunwich, Suffolk)
+   1 (of E. Anglia)
+   4 (of Egypt)
+   1 (of Eichstädt)
+   1 (of Ellant)
+   3 (of Embrun)
+   4 (of England)
+   1 (of Eskille)
+   1 (of Ethiopia)
+   7 (of Evreux)
+   1 (of Ferns)
+   1 (of Fiesole)
+   1 (of Fiesoli)
+   2 (of Five Churches)
+   1 (of Flanders)
+   1 (of Florence)
+   2 (of Foligno)
+   2 (of Fontenelle)
+   1 (of Forli)
+   1 (of Fossa)
+   4 (of France)
+   1 (of Freising)
+   1 (of Fréjus)
+   1 (of Gabali)
+   1 (of Gandia)
+   4 (of Gap)
+   3 (of Gaza)
+   1 (of Genoa)
+   1 (of Germany)
+   2 (of Glasgow)
+   1 (of Glastonbury)
+   1 (of Glendaloch)
+   1 (of God)
+   1 (of Grandmont)
+   1 (of Granfel)
+   2 (of Grenoble)
+   1 (of Gubbio)
+   1 (of Hamburg and Bremen)
+   1 (of Heraclea)
+   1 (of Heraclea, Egypt)
+   1 (of Heraclia)
+   3 (of Hereford)
+   1 (of Hexham)
+   4 (of Hildesheim)
+   2 (of Holar)
+   7 (of Hungary)
+   1 (of Iabhnal-Livin)
+   1 (of Iconium)
+   1 (of Inis-Coosery)
+   5 (of Ireland)
+   1 (of Jaen)
+  14 (of Jerusalem)
+   1 (of Jumieges and Nermoutier)
+   1 (of Kaskhar)
+   1 (of Kier-raigh)
+   1 (of Killala)
+   1 (of Killaloe)
+   1 (of Kilmainham)
+   1 (of Kilmore)
+   1 (of Krakow)
+   1 (of Lamarca/of Ancona)
+   1 (of Landaff)
+   1 (of Landen)
+   7 (of Langres)
+   3 (of Laon)
+   1 (of Lausanne)
+   1 (of Le Mans)
+  20 (of LeMans)
+   2 (of Lectoure)
+   1 (of Leighlin, Ireland)
+   1 (of Leinster)
+   1 (of Leonissa)
+   1 (of Lerin and Boin, Scotland)
+   1 (of Lerins)
+   1 (of Libya)
+   1 (of Lima)
+   5 (of Limoges)
+   3 (of Lincoln)
+   1 (of Lincopen, Sweden)
+   3 (of Lindisfarne)
+   1 (of Liège)
+   1 (of Lodavia)
+   4 (of Lodève)
+   3 (of London)
+   1 (of Lorch)
+   1 (of Lorenzana)
+   1 (of Louth, Ireland)
+   2 (of Lucca)
+   1 (of Lusk)
+   1 (of Luxemburg)
+   1 (of Luxeu)
+  20 (of Lyon)
+   6 (of Léon)
+   1 (of Madrid)
+   3 (of Maestricht)
+   3 (of Magdeburg)
+   1 (of Maleval)
+   8 (of Marseilles)
+   1 (of Matha)
+   1 (of Mayence)
+   9 (of Meaux)
+   2 (of Melrose)
+   1 (of Melross)
+   2 (of Mende)
+   1 (of Menthon)
+   1 (of Mentz)
+  25 (of Metz)
+   2 (of Metz, Soissons)
+   8 (of Milan)
+   1 (of Modena)
+   1 (of Mogrovejo)
+   1 (of Molesme)
+   1 (of Mont d'Hor)
+   5 (of Montecassino)
+   1 (of Montefalco)
+   1 (of Montepulciano)
+   1 (of Montevergine)
+   1 (of Montreuil)
+   1 (of Moutier and Chinon)
+   1 (of Moville)
+   2 (of Munster)
+   1 (of Myra)
+   3 (of Münster)
+   3 (of Nantes)
+   3 (of Narbonne)
+   2 (of Nazianzus)
+   5 (of Nevers)
+   1 (of Newminster, Northumberland)
+   1 (of Nisibis)
+   1 (of Nitria)
+   1 (of Nivelle)
+   2 (of Nola)
+   2 (of Northumberland)
+   1 (of Northumbria)
+   1 (of Norway)
+   1 (of Novaria)
+   6 (of Noyon)
+   1 (of Nyssa)
+   1 (of Octodurum)
+   1 (of Odessa)
+   1 (of Oignies)
+   1 (of Oléron)
+   2 (of Orange)
+   2 (of Orkney)
+   5 (of Orléans)
+   1 (of Ossory)
+   1 (of Ostia)
+   1 (of Our Lady in Cologne)
+   1 (of Ozimo)
+   4 (of Padua)
+   2 (of Palestine)
+  12 (of Paris)
+   2 (of Passau)
+   3 (of Pavia)
+   1 (of Pelusium)
+   1 (of Peschiera)
+   2 (of Peñafort)
+   1 (of Piacenza)
+   1 (of Pisa)
+   8 (of Poitiers)
+   2 (of Poland)
+   1 (of Pomposa)
+   1 (of Populonia in Etruria)
+   1 (of Pordenone)
+   1 (of Port Maurice)
+   1 (of Portugal)
+   5 (of Prague)
+   1 (of Prusa, Bithynia)
+   2 (of Périgueux)
+   3 (of Quimper)
+   1 (of Raphoe)
+   1 (of Ratisbon)
+   3 (of Ravenna)
+   1 (of Reading)
+   4 (of Regensburg)
+  14 (of Reims)
+   4 (of Reji)
+   5 (of Rennes)
+   1 (of Rochester, Canterbury)
+   1 (of Rodalsdorf)
+   2 (of Rodez)
+   1 (of Rome)
+   1 (of Roscrea, Ireland)
+   1 (of Roskilde)
+   1 (of Ross)
+  15 (of Rouen)
+   1 (of Sahagun)
+   1 (of Saint-Paul-Trois-Châteaux)
+   9 (of Saintes)
+   1 (of Salamis)
+   1 (of Sales)
+   2 (of Salinis)
+   3 (of Salisbury)
+   2 (of Salona)
+   4 (of Salzburg)
+   1 (of Samer)
+   1 (of Samosata)
+   1 (of Saragossa)
+   1 (of Sardes)
+   1 (of Savigny)
+   1 (of Scara, Sweden)
+   1 (of Scavonia)
+   1 (of Sconauge)
+   5 (of Scotland)
+   1 (of Scythopolis)
+   2 (of Sebaste)
+   2 (of Seben)
+   2 (of Segni)
+   1 (of Seleucia)
+   1 (of Sempringham)
+   1 (of Sendou)
+   7 (of Senlis)
+  19 (of Sens)
+   1 (of Septempeda)
+   1 (of Servia)
+   4 (of Seville)
+   3 (of Sherbourne)
+   1 (of Siceon)
+   4 (of Siena)
+   1 (of Sigmarengen)
+   1 (of Sirmium)
+   1 (of Skalholt, Iceland)
+   2 (of Skara)
+   2 (of Skoefde)
+   1 (of Sleswig)
+   1 (of Smyrna)
+   8 (of Soissons)
+   1 (of Sora)
+   2 (of Spoleto)
+   2 (of St. Andrews)
+   1 (of St. Benigne at Dijon)
+   1 (of St. Brieuc)
+   1 (of St. Columkille's)
+   1 (of St. Dié)
+   1 (of St. Hilda's)
+   3 (of St. Malo)
+   1 (of St. Martin of Tours)
+   1 (of St. Martin's near Pontoise)
+   1 (of St. Maurice Agaunum)
+   1 (of St.-Germain-des-Pres, Paris)
+   2 (of St.-Pierre-des-Fosses)
+   1 (of Stavelot)
+   1 (of Strasburg)
+   2 (of Strassburg)
+   1 (of Strassburg, Maestricht, Worms)
+   1 (of Suauve)
+   5 (of Sweden)
+   1 (of Syracuse)
+   4 (of Séez)
+   1 (of Taranto)
+   3 (of Tarentaise)
+   1 (of Tarragona)
+   1 (of Thanet)
+   1 (of Thiabara)
+   1 (of Thienna)
+   2 (of Thmuis)
+   1 (of Thyatira)
+  11 (of Thérouanne)
+   1 (of Todi)
+   3 (of Toledo)
+   1 (of Tolentino)
+   1 (of Tongres )
+   1 (of Tongres)
+  10 (of Toul)
+   1 (of Toulon)
+   7 (of Toulouse)
+   5 (of Tournai)
+  18 (of Tours)
+   4 (of Trent)
+   1 (of Treviso)
+  44 (of Trier)
+   1 (of Trim, Meath)
+   2 (of Trois-Châteaux)
+   7 (of Troyes)
+   1 (of Tréguier)
+   1 (of Tuam)
+   1 (of Turin)
+   3 (of Tyre)
+   1 (of Upper Thebaid)
+   3 (of Uppsala)
+   5 (of Utrecht)
+   4 (of Uzès)
+   2 (of Vaison)
+   2 (of Valence)
+   2 (of Valentia)
+   3 (of Valois)
+   1 (of Vanne)
+   2 (of Vannes)
+   1 (of Velay)
+   2 (of Vence)
+   2 (of Venice)
+   3 (of Vercelli)
+  13 (of Verdun)
+   1 (of Verdun, Meaux)
+   3 (of Verona)
+  14 (of Vienne)
+   1 (of Vienne, Auvergne)
+   2 (of Villanova)
+   2 (of Viterbo)
+   1 (of Viviers)
+   1 (of Warneton)
+   1 (of Waterford)
+   1 (of Wearmouth)
+   7 (of Winchester)
+   1 (of Worcester and York)
+   4 (of Worcester)
+   4 (of Würzburg)
+   1 (of Yandeuvre)
+   7 (of York)
+   1 (of region near Thérouanne)
+   1 (of the Angles)
+   3 (of the Cross)
+   1 (of the Franks)
+   1 (of the Isle of Man)
+   1 (of the Moors)
+   2 (of the Orkneys)
+   1 (of the Scots)
+   1 (of the Vandals)
+   1 (of the West Saxons)
+   1 (or Pulcherius)
+   1 (priests)
+   2 (protomartyr of England)
+   1 (sister of Nicasius, bishop)
+   1 (sometimes Paulinus)
+   2 (sometimes abbot)
+   1 (sometimes also priest)
+   2 (sometimes also queen)
+   2 (sometimes bishop or pope)
+  12 (sometimes bishop)
+   4 (sometimes bishop, confessor)
+   1 (sometimes bishop, martyr)
+  17 (sometimes confessor)
+   1 (sometimes confessor, bishop)
+  27 (sometimes martyr)
+   1 (sometimes martyrs)
+   3 (sometimes only bishop)
+   9 (sometimes only confessor)
+   4 (sometimes only confessors)
+   1 (sometimes only monk)
+   1 (sometimes virgin, martyr(?)
+   1 (sometimes, falsely, martyr)
+   1 (somtimes only confessor)
+   1 (the Almoner)
+   1 (the Almsgiver)
+   1 (the Apologist)
+   1 (the Cenobiarch)
+   1 (the Centurion)
+   1 (the Culdee)
+   2 (the Deacon)
+   1 (the Dwarf)
+   2 (the Elder)
+   1 (the Four Virgins)
+   2 (the Good Thief)
+   1 (the Goth)
+  10 (the Great)
+   1 (the Leper)
+   2 (the Less)
+   1 (the Sicilian Martyrs)
+   1 (the Silent)
+   1 (the Simple)
+   1 (the Stylite)
+   1 (the Syrian)
+   1 (the Theban)
+   1 (the Theologian)
+   5 (the Venerable)
+   1 (the Wise)
+   2 (the Younger)
+   1 (the Younger, of Mochuda)
+   1 (the younger)
+   2 (virgin)
+   1 (wife of Elzearus)
+   2 (with Maximus and Julian)
+   2 (with Remacle)
+   1 (zu Daten selten verwendet)
+   1 (zum Datieren nicht benutz)
+   3 Aaron
+   1 Abba
+   1 Abban
+   1 Abda
+   1 Abdjesus
+   1 Abdon
+   1 Abednego
+   1 Abel
+   1 Abidon
+   6 Abraham
+   1 Abundantius
+   1 Abundius
+   1 Acasius
+   1 Acepsimas
+   1 Acharius
+   1 Achatius
+   2 Acheolus
+   4 Achilleus
+   2 Achius
+   1 Acisclus
+   2 Adalar
+   1 Adalard
+   8 Adalbert
+   1 Adalgisus
+   1 Adalpret
+   1 Adamnan
+   2 Adauctus
+   1 Adelelmus
+   1 Adelgundis
+   3 Adelheidis
+   2 Adelphius
+   1 Aderald
+   1 Ado
+   5 Adrian
+   1 Aedh
+   2 Aedhan
+   1 Aedicius
+   1 Aegydius
+   2 Aelred
+   1 Aemeliani
+   2 Aemilius
+   1 Aengus
+   4 Afra
+   1 Africanus
+   1 Afrus
+   2 Agape
+   6 Agapitus
+   1 Agapius
+   1 Agatha
+   1 Agathangelus
+   1 Agatho
+   1 Agathodorus
+   1 Agatimber
+   1 Agericus
+   2 Agilbert
+   1 Agilulf
+   2 Agilus
+   4 Agnes
+   1 Agnus
+   2 Agoard
+   1 Agobard
+   1 Agrates
+   2 Agricius
+   6 Agricola
+   1 Agricolus
+   1 Aibert
+   1 Aichard
+   1 Aidan
+   2 Aigulf
+   1 Aimo
+   1 Airaldus
+   1 Aitillaha
+   1 Ajutre
+   1 Akimetes
+   1 Alacoque
+   3 Alban
+   1 Alberic
+   2 Albert
+   1 Albertoni
+   1 Albertus
+   3 Albinus
+   1 Albius
+   2 Albuinus
+   1 Alchas
+   1 Alchmund
+   1 Alcmund
+   1 Aldelmus
+   1 Aldetrud
+   1 Aldhelm
+   3 Aldric
+  15 Alexander
+   2 Alexandria
+   2 Alexius
+   1 Alipius
+   4 All
+   1 Allocus
+   1 Allodius
+   1 Almachius
+   1 Almar
+   1 Almirus
+   1 Alneus
+   1 Alnobert
+   1 Alnoth
+   2 Alodia
+   1 Alorius
+   1 Aloysius
+   1 Alphaeus
+   1 Alphea
+   1 Alphonso
+   1 Alpinianus
+   2 Alpinus
+   2 Alto
+   1 Amabilis
+   1 Amalberga
+   1 Amand
+   1 Amandinus
+   7 Amandus
+   2 Amantius
+   1 Amaranthus
+   1 Amarinus
+   4 Amator
+   3 Amatus
+   6 Ambrose
+   1 Ambrosimus
+   1 Amelberga
+   1 Amia
+   2 Ammon
+   1 Amor
+   1 Amphilochius
+   1 Anacletus
+   1 Ananias
+   4 Anastasia
+   6 Anastasius
+   2 Anatolius
+   1 Ancia
+   2 Andeolus
+   1 Andochius
+  13 Andrew
+   2 Andronicus
+   2 Angadrisma
+   3 Angela
+   2 Angels
+   1 Angelus
+   7 Anianus
+   3 Anicetus
+   1 Anna
+   7 Anne
+   1 Annemund
+   2 Anno
+   1 Annunciation
+   1 Ansaricus
+   1 Ansbert
+   3 Anscharius
+   2 Anselm
+   1 Anstrudis
+   1 Ansuerus
+   1 Ansutus
+   1 Anthelm
+   1 Antherus
+   1 Anthimus
+  11 Anthony
+   1 Antidea
+   1 Antidius
+   1 Antioch
+   1 Antiochus
+   1 Antipas
+   1 Antoine
+   1 Antolianus
+   4 Antoninus
+   1 Antonio
+   2 Aper
+   1 Aphraates
+   2 Aphrodisius
+   1 Apian
+   8 Apollinaris
+   1 Apollinus
+   1 Apollo
+   1 Apollonia
+   2 Apollonius
+   1 Apologist
+   5 Apostle
+   1 Apostles
+   1 Apothemius
+   1 Appia
+   1 Appolin
+   1 Appollonius
+   1 Apra
+   1 Aprunculus
+   1 Apuleius
+   1 Aquila
+   3 Aquilinus
+   1 Aquillus
+   2 Aquinas
+   2 Arbogast
+   1 Arbues
+   1 Arcadius
+   1 Archadius
+   1 Archelaus
+   1 Archinimus
+   1 Aredius
+   1 Areopagite
+   2 Arigius
+   1 Arimalis
+   1 Armagil
+   1 Armogastes
+   1 Arnoald
+   1 Arnulf
+   6 Arnulph
+   1 Arras
+   2 Arsacius
+   1 Arsenius
+   1 Artemas
+   4 Artemius
+   1 Arthemius
+   1 Arthur
+   1 Asaph
+   1 Asclas
+   1 Aspasius
+m   3 Assumption
+   1 Asteriolus
+   3 Asterius
+   2 Athanasius
+   1 Attala
+   1 Atticus
+   1 Attracta
+   1 Aubert
+   2 Auctor
+   1 Aude
+   1 Audentius
+   3 Audoenus
+   4 Audomar
+   1 Augulus
+   7 Augustine
+   1 Aunacharius
+   1 Aura
+   1 Aurea
+   1 Aurelia
+   1 Aurelianus
+   4 Aurelius
+   1 Aureus
+   1 Ausonius
+   2 Auspicius
+   3 Austreberta
+   1 Austregesilus
+   2 Austregisil
+   2 Austremonius
+   1 Austriclianus
+   3 Autbert
+   1 Auxentius
+   1 Avellino
+   1 Aventinus
+   1 Avertin
+   1 Avia
+   5 Avitus
+   1 Azades
+   1 Azarias
+   2 Babolen
+   1 Babylas
+   3 Bacchus
+   1 Bademus
+   1 Bain
+   1 Balaam
+   1 Balbina
+   1 Baldomer
+   1 Baldred
+   2 Baldus
+   1 Baldwin
+   1 Balsam
+   1 Balsemius
+   1 Bandarid
+   1 Banthus
+   1 Baomir
+   8 Baptist
+   1 Baptiste
+   1 Barachisius
+   1 Baradat
+   1 Barat
+   3 Barbara
+   1 Barbashemin
+   1 Barbatus
+   1 Bardulf
+   1 Barhadbesciabus
+   1 Barnabas
+   1 Barr
+   1 Barsabas
+   1 Barsabias
+   1 Barsamja
+   1 Barsanuphius
+   4 Bartholomew
+   1 Barthus
+   1 Barula
+   5 Basil
+   2 Basilides
+   1 Basiliscus
+   2 Basilissa
+   1 Basilla
+   1 Basinus
+   2 Basolus
+   1 Bassianus
+   2 Bathildis
+   1 Baudelius
+   1 Baumer
+   1 Bavo
+   1 Baylon
+   1 Bean
+   1 Beanus
+   1 Beatrice
+   5 Beatus
+   1 Beccan
+   5 Bede
+   2 Bega
+   2 Begga
+   1 Bel
+   1 Bell
+   1 Bellarmine
+   1 Bellarmino
+   1 Beltran
+  19 Benedict
+   1 Benedicta
+   1 Benezet
+   1 Beniganim
+   7 Benignus
+   1 Beniti
+   1 Benjamin
+   1 Benno
+   1 Bentivoglia
+   1 Bercharius
+   1 Berka
+   1 Bernadine
+   8 Bernard
+   1 Bernardino
+   1 Bernardinus
+   1 Berno
+   2 Bernward
+   2 Bertha
+   1 Bertharius
+   2 Bertilia
+   4 Bertin
+   1 Bertivin
+   1 Bertran
+   4 Bertrand
+   1 Bertuin
+   1 Besas
+   1 Bettelin
+   1 Beuno
+   1 Beverly
+   2 Bibiana
+   1 Bilhildis
+   1 Bird
+   3 Birgitta
+   3 Birinus
+   1 Birstan
+   1 Biteus
+   1 Blaesilla
+   1 Blanchart
+   1 Blane
+   2 Blasius
+   8 Blessed
+   1 Bobo
+   1 Bobola
+   1 Bodo
+   1 Boisil
+   1 Bolcan
+   1 Bolonia
+   3 Bonaventure
+   8 Boniface
+   1 Bonis
+   2 Bonitus
+   2 Bonosus
+   1 Bonus
+   1 Borgia
+   1 Borromeo
+   1 Bosco
+   1 Bosilus
+   1 Bossianus
+   3 Botulph
+   1 Botwid
+   1 Bova
+   1 Brandan
+   1 Branvalator
+   1 Braulio
+   1 Breaca
+   3 Brendan
+   1 Brettiva
+   3 Brictius
+   3 Bridget
+   1 Brihtwald
+   1 Brihtwold
+   2 Brinolph
+   2 Brioc
+   1 Britonius
+   1 Bronacha
+   3 Brothers
+   5 Bruno
+   1 Brynoth
+   1 Brébeuf
+   3 Burchard
+   1 Burgundy
+   1 Burian
+   1 Cadoc
+   1 Cadroe
+   1 Caesaria
+   2 Caesarius
+   1 Cagnoald
+   1 Cagnoli
+   1 Caius
+   1 Cajetan
+   1 Calais
+   1 Caletricus
+   5 Callistus
+   1 Calminius
+   1 Calogerus
+   1 Calybites
+   1 Camelianus
+   1 Camilla
+   2 Camillus
+   1 Cammin
+   1 Campion
+   3 Candida
+   5 Candidus
+   1 Canice
+   2 Canisius
+   1 Cannatus
+   2 Cantianilla
+   2 Cantianus
+   3 Cantius
+   1 Capistrano
+   1 Caprais
+   2 Caprasius
+   1 Captives
+   1 Caradoc
+   1 Caran
+   1 Caraunus
+   1 Carileffus
+   1 Carissima
+   1 Carissimus
+   1 Carmel
+   2 Carmelite
+   1 Carponius
+   2 Carpophorus
+   1 Carpus
+   1 Carter
+   1 Carterius
+   1 Carthagh
+   1 Cartin
+   3 Casaria
+   1 Casimir
+   1 Cassian
+   3 Cassianus
+   3 Cassius
+   3 Castor
+   2 Castulus
+   1 Castus
+   1 Cathan
+   9 Catherine
+   1 Catuldus
+   1 Cauleas
+   1 Cecilia
+   1 Cecilius
+   2 Cedd
+   4 Celestine
+   1 Celestinus
+   1 Celinia
+   6 Celsus
+   1 Censurius
+   1 Ceolfrid
+   1 Ceolwulf
+   1 Ceraunus
+   3 Cerbonius
+   1 Ceronna
+   2 Cesarius
+   1 Ceslas
+   1 Cessator
+   1 Chad
+   3 Chair
+   1 Chanel
+   1 Chantal
+   1 Chapelle
+   1 Charitine
+   2 Charity
+   2 Charlemagne
+   3 Charles
+   1 Chelidonius
+   1 Chionia
+   1 Chlodesindis
+   2 Chlodoald
+   2 Chlodulph
+   1 Chlothildis
+   1 Chrispus
+  10 Christ
+   1 Christeta
+   1 Christians
+   2 Christina
+   1 Christine
+   1 Christopher
+   2 Chrodegang
+   1 Chronion
+   3 Chrysanthus
+   1 Chrysantianus
+   1 Chrysogonus
+   1 Chrysolius
+   1 Chrysologus
+   3 Chrysostom
+  45 Church
+   1 Ciccarelli
+x   1 Circumcision
+   1 Ciriaca
+   1 Ciriacus
+   6 Clare
+   1 Claret
+  10 Clarus
+   1 Claudian
+   1 Claudianus
+   7 Claudius
+   5 Clement
+   1 Clementine
+   1 Cleophas
+   3 Cletus
+   1 Climacus
+   1 Clitherow
+   1 Clodonius
+   1 Coelestius
+   1 Cognoganus
+   1 Colentin
+   1 Colette
+   1 Colloquil
+   4 Colman
+   2 Colmann
+   1 Colmoc
+   1 Coloman
+   5 Columba
+   6 Columban
+   2 Columbanus
+   1 Columbini
+   1 Comgall
+   1 Comgan
+   1 Comman
+   1 Compiegne
+   1 Conall
+   1 Conan
+   1 Conception
+   1 Concessa
+   1 Concordia
+   1 Concordius
+   1 Congall
+   1 Conon
+   1 Conrad
+   1 Conran
+   2 Consortia
+   1 Constans
+   1 Constant
+   2 Constantine
+   2 Constantius
+   1 Contestus
+   1 Convall
+   1 Convoyon
+   2 Corbinianus
+   1 Corcodemus
+   1 Cordula
+   1 Corentinus
+   2 Cormac
+   2 Cornelius
+   1 Corona
+   1 Corsini
+   2 Cosmas
+   1 Costa
+   1 Cottam
+   1 Cousin
+   2 Crescentia
+   1 Crisogonus
+   1 Crispin
+   3 Crispinianus
+   3 Crispinus
+   1 Cronan
+   2 Cross
+   2 Crown
+   2 Crowned
+   1 Ctesiphon
+   1 Cucufas
+   1 Cumin
+   1 Cuncolim
+   1 Cunegundis
+   1 Cunera
+   1 Cungar
+   1 Cunibert
+   1 Cunigundis
+   3 Cuthbert
+   1 Cuthburga
+   1 Cuthman
+   1 Cybar
+   9 Cyprian
+   1 Cyprianus
+   1 Cyria
+   3 Cyriacus
+  11 Cyril
+   2 Cyrus
+   1 DAY
+   1 Dacian
+   1 Dagobert
+   1 Dalby
+   1 Dalmatianus
+   1 Dalmatius
+   1 Dalphina
+   2 Damascene
+   1 Damasus
+   1 Damhnade
+   4 Damian
+   4 Daniel
+   3 Daria
+   1 Datius
+   1 Dativa
+   1 Dativus
+   6 David
+   1 Davitus
+   1 Day
+   1 Declan
+x   7 Dedication
+   1 Deicolus
+   1 Delphinus
+   3 Demetrius
+   3 Deodatus
+   1 Deogratias
+   3 Desideratus
+  11 Desiderius
+   1 Deusdedit
+   1 Diaconanus
+   2 Didacus
+   2 Didymus
+   1 Digna
+   1 Dionysia
+   9 Dionysius
+   1 Dioscurus
+   1 Disibodus
+   2 Dismas
+   1 Divinicus
+   1 Division
+   1 Divitianus
+  39 Doctor
+   1 Doctors
+   2 Doda
+   1 Dogmael
+   1 Domicius
+   6 Dominic
+   2 Dominica
+   6 Domitian
+   2 Domitilla
+   1 Domitius
+   1 Domnina
+   3 Domninus
+   2 Domnius
+   1 Domnolenus
+   1 Domnolus
+   1 Donanus
+   6 Donatian
+   8 Donatus
+   2 Dorotheus
+   4 Dorothy
+   1 Dositheus
+   1 Dotto
+   1 Douay
+   1 Drausius
+   1 Droatan
+   1 Droctoveus
+   1 Drogo
+   1 Drostan
+   1 Dubricius
+   1 Duckett
+   1 Dulcard
+   1 Dulcissimus
+   1 Dumhade
+   2 Dunstan
+   1 Duthac
+   1 Dympna
+   1 Eadbert
+   2 Eadburga
+   1 Eadburghe
+   1 Eanswide
+   3 Ebba
+   2 Ebbo
+   1 Ebregisil
+   2 Ebrulf
+   1 Edana
+   1 Edburghe
+   1 Edelburga
+   1 Edelward
+   1 Ediltrudis
+   3 Edith
+   6 Edmund
+   8 Edward
+   1 Edwin
+   2 Egbert
+   1 Egwin
+   1 Egypt
+   1 Eighteen
+   1 Einbeta
+   1 Eingan
+   1 Elaphius
+   2 Elder
+   1 Eleazarus
+   2 Elemosynarius
+   2 Eleosippus
+   1 Elesbaan
+  10 Eleutherius
+   1 Eleven
+   1 Elfgive
+   2 Elias
+   1 Elier
+   2 Eligius
+   1 Eliphius
+   1 Elisabeth
+   1 Eliseus
+   5 Elizabeth
+   1 Elo
+   2 Elphege
+   1 Elpidius
+   1 Elyfius
+   2 Elzearus
+   1 Emanus
+   1 Emebert
+   1 Emerentiana
+   2 Emericus
+   1 Emerita
+   1 Emeterius
+   2 Emiliana
+   1 Emiliani
+   3 Emilianus
+   1 Emma
+   1 Emmeram
+   1 Enda
+   1 Englacius
+   2 England
+   1 Engratia
+   1 Enimia
+   1 Ennodius
+   1 Eobanus
+   1 Eonius
+   1 Eormenhildis
+   1 Eparchius
+   2 Ephraim
+   1 Ephrem
+   1 Ephysius
+   2 Epimachus
+   4 Epiphanius
+   3 Epiphany
+   1 Epipodius
+   1 Equitius
+   1 Erasma
+   3 Erasmus
+   2 Erconwald
+   3 Erhard
+   2 Eric
+   2 Erintrudis
+   2 Erkenbodo
+   1 Erkenwold
+   1 Erlulph
+   1 Erminold
+   1 Eskill
+   1 Eskillus
+   1 Ethbin
+   3 Ethelbert
+   1 Ethelburge
+   2 Etheldreda
+   1 Etheldritha
+   1 Ethelfleda
+   2 Ethelwold
+   3 Etherius
+   1 Ethernan
+   1 Ethernascus
+   1 Etto
+   1 Euatachius
+   1 Eubertus
+   1 Eubulus
+   3 Eucharius
+   1 Eucherius
+   1 Eudes
+   1 Euergillus
+   3 Eufemia
+   1 Eufrasia
+   1 Eugendus
+   1 Eugene
+   3 Eugenia
+   4 Eugenius
+   1 Eugeus
+   2 Eulalia
+   2 Eulogius
+   1 Eunan
+   1 Eupergius
+   1 Euphemia
+   1 Euphrasia
+   2 Euphronius
+   1 Euphrosius
+   2 Euphrosyne
+   1 Euplus
+   1 Eupsychius
+  17 Eusebius
+   1 Eusicius
+   1 Euspicius
+   6 Eustace
+   2 Eustasius
+   1 Eustathius
+   1 Eustochium
+   1 Eustochius
+   1 Euthymius
+   1 Eutropia
+   1 Eutropis
+   6 Eutropius
+   1 Eutychius
+   1 Evaristus
+   1 Eventius
+   1 Everard
+   1 Everildis
+   2 Evodius
+   1 Evremundus
+   1 Evurtius
+   2 Ewald
+   1 Ewalds
+   1 Exaltation
+   1 Exuperantius
+   4 Exuperius
+   1 Exupery
+   1 Eymard
+   1 Ezekiel
+   1 Fabian
+   4 Faith
+   1 Falconieri
+   1 Fanchea
+   1 Fara
+   1 Faringdon
+   1 Faro
+   4 Father
+   1 Fausta
+   1 Faustina
+   6 Faustinus
+   2 Faustus
+   1 Featherstone
+   1 Fechin
+   1 Fedlimin
+   1 Felan
+   2 Felician
+   2 Felicianus
+   2 Felicissimus
+   3 Felicitas
+   2 Felicity
+   1 Felicola
+   1 Felissimus
+  30 Felix
+   2 Felton
+   1 Fenn
+   1 Ferdinand
+   1 Fergusian
+   8 Ferreolus
+   1 Ferrer
+   1 Ferriolus
+   3 Ferrutius
+   2 Ferrutus
+   1 Festus
+   1 Fiachna
+   2 Fiacre
+   1 Fibicius
+   2 Fidelis
+   1 Fidentius
+   1 Fidharleus
+   1 Fidolus
+   1 Filby
+   1 Fimbert
+   1 Finbar
+   1 Fincana
+   1 Findoca
+   1 Fingar
+   6 Finian
+   1 Finnian
+   2 Fintan
+   1 Firmanus
+   1 Firmatus
+  10 Firminus
+   1 Firmus
+   2 Fisher
+   3 Five
+   1 Flannan
+   1 Flauien
+   2 Flavia
+   5 Flavian
+   2 Flavitus
+   1 Flight
+   1 Flora
+   2 Florence
+   4 Florentia
+   4 Florentinus
+  13 Florentius
+   2 Florian
+   1 Floribert
+   1 Florina
+   3 Florinus
+   4 Florus
+   1 Floscellus
+   1 Flosculus
+   1 Focus
+   1 Foelanus
+   1 Foillanus
+   1 Folquinus
+   1 Ford
+   1 Forest
+   1 Formatus
+   1 Fortescue
+   1 Fortunata
+  16 Fortunatus
+   3 Forty
+   1 Fotinus
+   2 Founders
+   2 Four
+   1 Fourier
+   1 Fourteen
+   1 Frambald
+   1 Frambaldus
+   2 Frances
+  10 Francis
+   1 Francoveus
+   1 Fraternus
+   1 Fredegaudus
+   1 Frederick
+   1 Fredulph
+a   2 Friars
+   2 Fridestan
+   1 Fridian
+   1 Fridolin
+   2 Fridolinus
+   2 Fritheswida
+   1 Frodoald
+   1 Frodobert
+   2 Frominius
+   1 Frontasius
+   2 Fronto
+   1 Fructuosis
+   1 Fructuosus
+   1 Frumence
+   1 Frumentius
+   1 Fulcrann
+   2 Fulgentius
+   2 Furseus
+   1 Fusca
+   3 Fuscian
+   1 Gabinus
+   3 Gabriel
+   2 Gaius
+   1 Galdin
+   3 Gall
+   2 Galla
+   1 Gallicanus
+   1 Galmier
+   1 Gamaliel
+   1 Gambara
+   1 Gardiner
+   1 Gargano
+   1 Garibaldus
+   1 Garicoits
+   3 Gatian
+   1 Gaucher
+   2 Gaudentius
+   1 Gaudius
+   1 Gaudus
+   2 Gaugericus
+   1 Gausbert
+   1 Gay
+   1 Gebhard
+   1 Gelasinus
+   3 Gelasius
+   3 Geminianus
+   1 Gemma
+   2 Gendulf
+   1 Genebald
+   1 Genebrard
+   1 Generosus
+   5 Genesius
+   1 Genevieve
+   6 Gengulf
+   1 Genisius
+   1 Genius
+   2 Genovieve
+   3 Gentian
+   2 Genulf
+   8 George
+   3 Gerald
+   6 Gerard
+   1 Gerebold
+   2 Geremar
+   1 Gereon
+   1 Gerlac
+   1 Germaine
+   2 German
+   1 Germana
+   1 Germanicus
+  14 Germanus
+   1 Germerius
+   1 Geronimus
+   2 Gerontius
+   4 Gertrude
+   1 Gervadius
+   2 Gervase
+   1 Gervasius
+   1 Getulius
+   1 Ghebra
+   1 Gibrian
+   3 Gilbert
+   1 Gildard
+   1 Gildas
+   3 Giles
+   2 Gislebertus
+   1 Gislenus
+   1 Glascian
+   1 Goar
+   1 Gobain
+   1 Gobrianus
+   1 God
+   1 Godeberta
+   2 Godehard
+   1 Godeschalc
+   2 Godfrey
+   1 Godo
+   1 Godoald
+   1 Godobert
+   1 Godrick
+   1 Goericus
+   1 Golvinus
+   1 Gondebert
+   1 Gondulf
+   1 Gondulph
+   1 Gonsald
+   1 Gonsalvo
+   1 Gonzaga
+   1 Gonzales
+   1 Gorcum
+   3 Gordian
+   1 Gordius
+   1 Goretti
+   3 Gorgonius
+   1 Gozzolini
+   1 Grace
+   1 Grassi
+   1 Gratian
+   4 Gratus
+   1 Great
+  22 Gregory
+   1 Grignon
+   2 Grimbald
+   1 Grimonia
+   2 Gualbert
+   1 Gualdo
+   1 Guardian
+   1 Guarinus
+   2 Gudula
+   1 Gudwal
+   1 Guenaelus
+   1 Guennin
+   1 Guesnoveus
+   1 Guibertus
+   4 Guido
+   1 Guillermus
+   1 Guimerus
+   1 Guinefortus
+   1 Guingualeus
+   1 Guinoch
+   1 Guirandus
+   1 Gumbert
+   1 Gummarus
+   2 Gumpert
+   1 Gundleus
+   2 Gundulf
+   1 Gunthiern
+   1 Guntram
+   1 Gunzelinus
+   1 Gurloesius
+   1 Guthagon
+   3 Guthlac
+   1 Habundus
+   1 Hadelinus
+   1 Hadiab
+   1 Hadvindus
+   1 Halvard
+   1 Hanse
+   1 Harding
+   1 Hardisty
+   1 Harold
+   1 Hart
+   1 Hartmannus
+   1 Haydock
+   1 Heath
+   1 Hedda
+   2 Hedwiges
+   3 Hedwigis
+   1 Hegesippus
+   1 Helen
+  12 Helena
+   1 Helenus
+   1 Helerius
+   2 Helladius
+   1 Help
+   1 Helpers
+   1 Hemerford
+  10 Henry
+   1 Heraclianus
+   1 Heraclidas
+   1 Heraclius
+   1 Herais
+   1 Herblandus
+   2 Herculanus
+   1 Herculianus
+   1 Herenus
+   2 Heribert
+   2 Hermagoras
+   1 Herman
+   1 Hermas
+   1 Hermenegild
+   1 Hermenfrid
+   2 Hermes
+   1 Hermogenes
+   1 Hermolaus
+   1 Herneus
+   1 Hero
+   1 Herveus
+   1 Hiereneus
+   1 Hiero
+   1 Hilaria
+   2 Hilarinus
+   1 Hilarion
+   6 Hilarius
+   8 Hilary
+   3 Hilda
+   1 Hildebert
+   1 Hildegard
+   1 Himerius
+   5 Hippolytus
+   1 Hoarzonus
+   1 Hoildis
+   6 Holy
+   1 Homobonus
+   1 Honesta
+   1 Honestus
+   3 Honoratus
+   1 Honorina
+   2 Honorius
+   1 Hope
+   1 Hormisdas
+   1 Horner
+   2 Hospicius
+   1 Hospitaler
+   1 Hospitius
+   1 House
+   1 Howard
+   2 Hubert
+   6 Hugh
+   3 Hugo
+   1 Hugolinus
+   2 Humbert
+   3 Hundred
+   1 Hunegundis
+   1 Hunfrid
+   1 Hyacinth
+   1 Hyacintha
+   3 Hyacinthus
+   2 Hycinthus
+   1 Hyginius
+   1 Hyldulf
+   1 III
+   1 Ibar
+   1 Ida
+   1 Idaberga
+   1 Idus
+   6 Ignatius
+   1 Ildephonsus
+   2 Illidius
+   1 Illtyd
+   1 Incarnation
+   1 Inez
+   1 Infante
+   2 Ingenuinus
+   4 Innocent
+   1 Innocentia
+   2 Innocents
+   1 Innumerabiles
+   1 Innumerable
+   1 Intercisus
+   1 Invelta
+   1 Invention
+   1 Ionius
+   1 Ipipodius
+   1 Irchard
+   2 Ireland
+   4 Irenaeus
+   2 Irene
+   1 Ireneus
+   1 Irmina
+   4 Isaac
+   1 Isabel
+   1 Isaias
+   1 Ischyrion
+  10 Isidore
+   1 Ita
+   1 Iterius
+   1 Itisberga
+   1 Ivetta
+   6 Ivo
+   1 Jacob
+   1 Jacutus
+   1 Jader
+  20 James
+   1 Janius
+   1 Januaris
+   2 Januarius
+   1 Jaricot
+   2 Jarlath
+   3 Jean
+   1 Jeanne
+   1 Jeremy
+   3 Jerome
+   1 Jesu
+   6 Joachim
+   3 Joan
+   1 Joannicius
+   1 Joavan
+   4 Jodocus
+   1 Jogues
+  86 John
+   1 Johnson
+   1 Jonas
+   1 Jonius
+   2 Josaphat
+  12 Joseph
+   1 Jovinianus
+   2 Jovinus
+   1 Jovita
+   2 Jude
+   1 Judocus
+   3 Julia
+  22 Julian
+   2 Juliana
+   1 Julianis
+   1 Juliata
+   4 Julitta
+   5 Julius
+   2 Junian
+   2 Justa
+   6 Justin
+   3 Justina
+   1 Justine
+   3 Justinian
+   2 Justinus
+  15 Justus
+   1 Juvenal
+   2 Juvenalis
+   1 Juventinus
+   1 Juventius
+   5 Kanute
+   1 Karadocus
+   1 Kebius
+   1 Kemble
+   1 Kenan
+   1 Kenelmus
+   1 Kennera
+   1 Kennocha
+   4 Kentigern
+   1 Kentigerna
+   1 Keranus
+   1 Kessog
+   1 Ketillus
+   1 Kety
+   1 Kevin
+   1 Keyna
+   2 Kieran
+   1 Kiliam
+   1 Kilian
+   1 Killian
+   1 Kineburge
+   1 Kineswide
+   1 Kinga
+a   2 Kings
+   1 Kinnea
+   1 Kirby
+   2 Kirkman
+   1 Kostka
+   1 Kunegundis
+   1 Kuniald
+   1 LEAP
+   1 Labre
+   1 Lacy
+   2 Ladislas
+   5 Lady
+   1 Laetus
+   1 Lamalisse
+   5 Lambert
+   1 Landelin
+   2 Landelinus
+   2 Landericus
+   3 Landoald
+   1 Landrada
+   1 Larke
+   1 Laserian
+   1 Lateran
+   1 Latinus
+   1 Latuinus
+   1 Laudoveve
+   1 Laudulf
+   1 Laudus
+   1 Launomar
+   1 Laurentinus
+   1 Laurianus
+   1 Laurus
+  10 Lawrence
+   4 Lazarus
+   1 Lea
+   1 Leander
+   1 Leap
+   2 Lebuinus
+   1 Ledwina
+   3 Leguntius
+   1 Lellis
+  11 Leo
+   1 Leobard
+   2 Leobinus
+   1 Leobonus
+   1 Leocadia
+   3 Leodegar
+   4 Leonard
+   1 Leonardi
+   1 Leonianus
+   1 Leonidas
+   1 Leonides
+   1 Leonius
+   1 Leonore
+   5 Leontius
+   1 Leopard
+   2 Leopold
+   1 Leotfredus
+   1 Leothad
+   1 Lethard
+   1 Letus
+   1 Leucius
+   1 Leudomirus
+   1 Leufred
+   1 Leuthernus
+   1 Levangius
+   1 Lewine
+   1 Libaria
+   1 Liberatus
+   4 Liborius
+   1 Licerius
+   1 Licinius
+   2 Lidorius
+   2 Lifard
+   1 Liguori
+   1 Limneus
+   2 Linus
+   1 Lioba
+   1 Liofard
+   1 Livarius
+   1 Livinus
+   1 Lodivica
+   1 Lolanus
+   1 Loman
+   1 Lombards
+   3 Longinus
+   1 Loreto
+   1 Lorraine
+   6 Louis
+   1 Lourdes
+   1 Loyola
+   2 Luan
+   1 Lubentius
+   1 Lucanus
+   5 Lucian
+   1 Luciana
+   1 Lucianus
+   9 Lucius
+   3 Lucy
+   3 Ludger
+   2 Ludmilla
+   1 Lufthild
+   1 Luican
+   3 Luke
+   1 Lullus
+   2 Lupentius
+   1 Lupercius
+   2 Lupicinus
+  14 Lupus
+   1 Lusitania
+   1 Lusor
+   1 Lutrudis
+   1 Lutwin
+   1 Luxorius
+   1 Lwanga
+   1 M
+   1 Mac
+   1 Macanisius
+   9 Macarius
+   1 Maccabees
+   1 Maccai
+   1 Macculindus
+   2 Macedonius
+   1 Machan
+   1 Macharius
+   1 Machrina
+   3 Maclovius
+   1 Macnisius
+   2 Macra
+   1 Macrina
+   1 Macull
+   1 Madalveus
+   1 Madelberta
+   1 Madeleine
+   1 Maden
+   1 Magdalen
+   1 Magdalena
+   5 Magdalene
+   1 Maggiore
+   1 Maglorius
+   1 Magnanius
+   1 Magnericus
+   1 Magnobodus
+   5 Magnus
+   1 Magorianus
+   1 Maguil
+   1 Mahanes
+   1 Maharsapor
+   1 Maianus
+   1 Maimbod
+   1 Majolus
+   3 Malachi
+   1 Malard
+   1 Malchus
+   1 Maldegar
+   1 Malrubbus
+   1 Malrubius
+   1 Malulfus
+   1 Mamas
+   1 Mamertinus
+   2 Mamertus
+   1 Mammas
+   1 Mammes
+   1 Mancini
+   1 Manirus
+   1 Mansuetis
+   2 Mansuetus
+   1 Manveus
+   1 Mappalicus
+   1 Marcealis
+   1 Marcel
+   2 Marcella
+   2 Marcellianus
+   1 Marcellina
+   4 Marcellinus
+  13 Marcellus
+   3 Marcian
+   1 Marciana
+   2 Marcianus
+   1 Marcolino
+   1 Marculf
+   2 Marcus
+  18 Margaret
+   7 Maria
+   1 Marian
+   4 Marianus
+   5 Marie
+   2 Marina
+   1 Marinoni
+   4 Marinus
+   1 Mariscotti
+   4 Marius
+   6 Mark
+   1 Marman
+   1 Marnanus
+   1 Maro
+   1 Marsus
+   5 Martha
+   2 Martial
+   4 Martialis
+   1 Martian
+   2 Martiana
+  16 Martin
+   2 Martina
+   2 Martinianus
+   1 Martires
+   3 Martyr
+   1 Martyrius
+  20 Martyrs
+   1 Marus
+  44 Mary
+   1 Massylitan
+   1 Mastidia
+   1 Maternianus
+   5 Maternus
+   2 Mathilda
+   1 Mathurin
+   1 Matrona
+   5 Matthew
+   3 Matthias
+   2 Maturinus
+   2 Maudetus
+   2 Maura
+   3 Maurice
+   4 Maurilius
+   1 Maurinus
+   3 Mauritius
+   2 Maurontus
+   8 Maurus
+   1 Maw
+   1 Maxellendis
+   3 Maxentia
+   2 Maxentius
+   1 Maxima
+   3 Maximilian
+  10 Maximinus
+  16 Maximus
+   1 Mayne
+   1 Mazota
+   1 McAedh
+   1 McCorpre
+   1 Mechtildes
+   1 Medana
+   2 Medard
+   1 Medericus
+   1 Medulf
+   2 Meginrad
+   1 Meinulph
+   1 Melania
+   3 Melanius
+   2 Melchiades
+   2 Meleosippus
+   1 Meletius
+   1 Melito
+   1 Mellitus
+   1 Mellonus
+   1 Melor
+   1 Melorus
+   2 Memmius
+   1 Memorius
+   2 Menas
+   1 Meneleus
+   1 Menna
+   1 Menulf
+   4 Mercurius
+   1 Meriadec
+   2 Merici
+   1 Merita
+   1 Mernocus
+   1 Merodius
+   1 Meschach
+   6 Methodius
+   1 Metrannus
+   1 Metronus
+   1 Metropolus
+   1 Meuris
+   1 Mevennus
+   8 Michael
+   1 Miki
+   1 Milburga
+   1 Mildgytha
+   1 Mildrada
+   1 Mildred
+   1 Miletus
+   1 Milles
+   1 Minervus
+   1 Mineve
+   1 Miniatis
+   2 Minor
+   1 Misael
+   2 Mitrius
+   1 Mocheomoc
+   1 Mochteus
+   1 Modan
+   1 Modanus
+   2 Moderannus
+   1 Modesta
+   4 Modestus
+   1 Modoald
+   1 Modoc
+   1 Modomnoc
+   1 Modwena
+   1 Modwenna
+   1 Molingus
+   1 Moloc
+   1 Mommolem
+   1 Mommolus
+   1 Monan
+   1 Monegundes
+   1 Monegundis
+   3 Monica
+   1 Moninna
+   1 Mono
+   1 Mons
+   1 Montanus
+   2 Monte
+   2 Montecassino
+   1 Montfort
+   1 Monulf
+   1 Monulph
+   1 Moors
+   1 Morandus
+   3 More
+   1 Moroc
+   5 Mother
+   1 Mount
+   1 Mt
+   1 Munchin
+   1 Munde
+   1 Mundus
+   1 Mundyn
+   1 Muredach
+   1 Musca
+   1 Naamatius
+   4 Nabor
+   1 Narcissius
+   1 Narcissus
+   1 Narses
+   1 Natalanus
+   1 Nathalan
+   1 Nathy
+m   6 Nativity
+   1 Natuitus
+   5 Nazarius
+   1 Nectanus
+   2 Nectarius
+   1 Nelson
+   1 Nemecianus
+   1 Nemesion
+   1 Nennus
+   1 Neon
+   1 Neophyta
+   1 Neot
+   1 Neotus
+   2 Nepomucen
+   2 Nereus
+   1 Neri
+   1 Nessan
+   2 Nestor
+   1 Nestorius
+   1 Newdigate
+   1 Nicander
+   6 Nicasius
+   2 Nicephorus
+   2 Nicetas
+   5 Nicetius
+   9 Nicholas
+   1 Nicodemus
+   4 Nicomedes
+   1 Nicon
+   1 Nicostratus
+   2 Nilus
+   2 Nine
+   1 Ninian
+   1 Ninnoc
+   1 Nissen
+   1 Nivardus
+   1 Nolasco
+   1 Nonnatus
+   1 Nonnosus
+   2 Norbert
+   1 Numerianus
+   1 Nummius
+   1 Nunilo
+   1 Nunilonis
+   1 Nuns
+   1 Nutter
+   1 Nychasius
+   1 Nympha
+   1 Obertus
+m   4 Octave
+   3 Oda
+   1 Odilda
+   1 Odilia
+   3 Odilo
+   4 Odo
+   1 Odoric
+   1 Odorius
+   1 Odrian
+   2 Odulph
+   1 Oduvald
+   1 Offren
+   3 Olaf
+   1 Olimpiadis
+   1 Oliver
+   1 Olympias
+   2 Omer
+   1 One
+   2 Onesimus
+   1 Onesiphorus
+   4 Onuphrius
+   1 Oosten
+   1 Opifex
+   1 Opportuna
+   3 Optatus
+   2 Order
+   1 Orientius
+   1 Oringa
+   1 Ormisdas
+   1 Orontius
+   1 Osan
+   1 Ositha
+   1 Osmanna
+   2 Osmund
+   1 Osonans
+   4 Oswald
+   2 Oswin
+   1 Othelric
+   1 Othger
+   2 Othmar
+   1 Otteran
+   3 Otto
+   1 Oubertus
+   1 Oudoceus
+   1 Ouen
+   5 Our
+   1 Pa
+   1 Pachomius
+   1 Pacian
+   1 Paduinus
+   1 Palaemon
+   1 Palladia
+   5 Palladius
+   1 Palmatius
+   1 Pambo
+   1 Pammarchius
+   2 Pamphilus
+   3 Pancratius
+   1 Pantaenus
+   3 Pantaleon
+   1 Pantalus
+   2 Panthalin
+   2 Paola
+   1 Paolo
+   1 Paphnutius
+   2 Papia
+   1 Papulus
+   1 Papylas
+   1 Parades
+   1 Pardulf
+   1 Paregorius
+   1 Paris
+   1 Parthenius
+   2 Paschal
+   1 Pascharius
+   1 Paschasia
+   4 Pastor
+   4 Paternus
+   2 Patiens
+   2 Patricius
+   1 Patrick
+   5 Patroclus
+   1 Patusius
+  29 Paul
+   3 Paula
+   1 Pauline
+   5 Paulinus
+   2 Pavacius
+   1 Payne
+   1 Pazzi
+   1 Pecinna
+   1 Pega
+   3 Pelagia
+   2 Pelagius
+   1 Peleus
+   1 Pepin
+   1 Perboyre
+   2 Percy
+   6 Peregrinus
+   2 Perfectus
+   1 Pergentinus
+   1 Perpetua
+   2 Perpetuus
+   1 Persia
+  43 Peter
+   1 Petroc
+   1 Petronilla
+   3 Petronius
+   1 Phaebadius
+   2 Pharaildis
+   1 Philastrius
+   1 Phileas
+   2 Philemon
+   2 Philibert
+   7 Philip
+   1 Philippe
+   1 Philippo
+   1 Philogonius
+   1 Philoromus
+   3 Phocas
+   2 Photinus
+   4 Piatus
+   1 Pickering
+   1 Pinchon
+   1 Pinnosa
+   1 Pionius
+   1 Pirminius
+   4 Pius
+   2 Placidus
+   1 Plato
+   1 Plechelm
+   2 Plumtree
+   1 Plunkett
+   1 Plutarch
+   1 Poemen
+   1 Pole
+   1 Polieuctus
+   1 Pollio
+   5 Polycarp
+   1 Polychronius
+   1 Polycrates
+   1 Polyeuctus
+   1 Poma
+   1 Poncius
+   6 Pontianus
+   4 Pontius
+   1 Pontus
+   1 Poppo
+   1 Porcaria
+   1 Porphyrius
+   1 Porres
+   1 Portianus
+   2 Possessor
+   1 Possidius
+   1 Postel
+   1 Potamon
+   2 Potentianus
+   1 Potitus
+   1 Potomiana
+   1 Powell
+   1 Prado
+   1 Praetextatus
+   1 Pragmatius
+   1 Praxedis
+   3 Prejectus
+   2 Presentation
+   1 Prime
+   1 Primolus
+   2 Primus
+   2 Principius
+   1 Prior
+   1 Prisca
+   2 Priscilla
+   1 Prisco
+   4 Priscus
+   1 Privatus
+   1 Privus
+   1 Proba
+   1 Probus
+   1 Processus
+   1 Prochorus
+   1 Proclus
+   5 Procopius
+   1 Proculus
+   1 Prosdocimus
+   1 Prosper
+   1 Protadius
+   2 Protase
+   2 Protasia
+   2 Protasius
+   1 Proterius
+   1 Protomartyrs
+   4 Protus
+   1 Prudentius
+   1 Psalmod
+   2 Psalmodius
+   1 Ptolemy
+   1 Ptolomaeus
+   1 Publius
+   2 Pudentiana
+   1 Puellae
+   1 Pulcheria
+   2 Pulchronius
+m   1 Purification
+   1 Pusinna
+   1 Pygmenius
+   1 Pévèle
+   1 Quadratus
+   1 Quarletus
+   1 Quartus
+   1 Quinidus
+   2 Quintian
+   6 Quintinus
+   1 Quintus
+   1 Quinzani
+   5 Quiriacus
+   3 Quiricus
+   9 Quirinus
+   1 Quiteria
+   2 Racho
+   1 Radbert
+   2 Radbod
+   2 Radegundis
+   2 Ragenulf
+   4 Ragnobert
+   1 Raingarda
+   1 Raithu
+   2 Ralph
+   1 Raphael
+   1 Rasiphus
+   1 Ravennus
+   4 Raymond
+   1 Regalati
+   2 Regenfledis
+   3 Regina
+   1 Reginswindis
+   1 Reginwald
+   2 Regula
+   2 Regulus
+   1 Reimbert
+   1 Reims
+   1 Reinold
+   1 Relics
+   1 Remacle
+   1 Rembert
+   2 Remedius
+   4 Remigius
+   1 Remoldus
+   3 Renatus
+   1 Reparata
+   1 Respicius
+   1 Restituta
+   1 Restitutus
+   1 Resurrectio
+   1 Reverentius
+   1 Reverianus
+   2 Reynolds
+   1 Rhenus
+   1 Rheticius
+   1 Ricasoli
+   1 Ricci
+  13 Richard
+   1 Richardis
+   2 Richarius
+   1 Richimirus
+   1 Rictrudes
+   1 Rictrudis
+   3 Rigobert
+   2 Rigomerus
+   1 Riquardus
+   1 Rita
+   1 Rivalus
+  10 Robert
+   1 Roch
+   1 Rochester
+   1 Rodingus
+   1 Rogatian
+   4 Roger
+   2 Roman
+   1 Romana
+  10 Romanus
+   1 Romaric
+   4 Rome
+   2 Romuald
+   2 Ronanus
+   1 Rosa
+   1 Rosalia
+   1 Rosary
+   2 Rose
+   1 Roselina
+   1 Rotrudis
+   1 Rowsham
+   1 Ruadhan
+   1 Ruffin
+   4 Rufina
+   1 Rufinus
+   9 Rufus
+   1 Rumold
+   1 Rumoldus
+   1 Rumonus
+   1 Rumpharius
+   1 Rumwold
+   2 Rupert
+   1 Rusticianus
+   1 Rusticola
+   5 Rusticus
+   1 SEE
+   4 Sabas
+   1 Sabaudus
+   4 Sabina
+   1 Sabinas
+   6 Sabinianus
+   5 Sabinus
+   2 Sacerdos
+   1 Sadoth
+   3 Saints
+   1 Sales
+   1 Salle
+   2 Salome
+   1 Salomon
+   1 Salus
+   1 Salvianus
+   1 Salvinus
+   6 Salvius
+   1 Samosata
+   1 Samson
+   1 Samual
+   1 Sanctianus
+   2 Sanctinus
+   1 Santa
+   1 Sapientia
+   1 Sapor
+   1 Saragossa
+   1 Sarius
+   1 Sativola
+   1 Saturas
+   1 Saturnina
+   8 Saturninus
+   1 Satyrus
+   1 Saultmouche
+   2 Savin
+   1 Saxony
+   1 Scholastic
+   1 Scholastica
+   1 Sebald
+   1 Sebaste
+   3 Sebastian
+   1 Sebbi
+   1 Secunda
+   1 Secundianus
+   1 Secundin
+   1 Secundinus
+   2 Secundus
+   1 Segolena
+   1 Senan
+   1 Senesius
+   1 Sennen
+   1 Senochus
+   1 Sequanus
+   1 Seraphia
+   1 Seraphion
+   4 Serapion
+   1 Serena
+   1 Serenedus
+   1 Serenicus
+   4 Serenus
+   1 Serf
+   3 Sergius
+   1 Seronius
+   1 Serotinus
+   1 Servandus
+   1 Servanus
+   2 Servatius
+   1 Servilianus
+   2 Servite
+   1 Servulus
+   1 Sethrida
+  12 Seven
+   2 Severa
+   1 Severianus
+  14 Severinus
+   1 Severius
+  11 Severus
+   1 Sevo
+   1 Sexburgis
+   1 Shadrach
+   1 Sherwine
+   1 Sherwood
+   1 Shirt
+   1 Sicarius
+   1 Sidonius
+   2 Sidronius
+   1 Sifredus
+   1 Sigebert
+   1 Sigfrid
+   1 Sigisbert
+   2 Sigismund
+   1 Sigrada
+   2 Silas
+   1 Sillan
+   3 Silvanus
+   1 Silverius
+   2 Silvester
+   1 Silvinus
+   9 Simeon
+   5 Simon
+   1 Simpert
+   2 Simplicianus
+   5 Simplicius
+   1 Sina
+   1 Sinai
+   1 Sinaite
+   1 Sindonite
+   2 Sindulf
+   4 Sinerius
+   1 Sinnicius
+   1 Siran
+   1 Siricius
+   4 Sisinnius
+   1 Sisoes
+   1 Sisters
+   1 Siviardus
+   8 Sixtus
+   5 Sleepers
+   1 Socrates
+   1 Sola
+   1 Solano
+   1 Solemnis
+   1 Solina
+   8 Sophia
+   1 Sophie
+   1 Sophronius
+   1 Sorrows
+   1 Sorus
+   2 Soter
+   1 Sotheris
+   1 Souls
+   1 Southworth
+   1 Spatius
+   1 Speciosa
+   1 Spencer
+   2 Speosippus
+   1 Speratus
+   1 Spiridion
+   8 St
+   6 Stanislas
+   1 Stateus
+   1 Ste
+   1 Stephana
+  20 Stephen
+   1 Stock
+   1 Stone
+   1 Storey
+   1 Stransham
+   1 Studite
+   1 Stylite
+   1 Stylites
+   4 Suitbert
+   2 Suliavus
+   2 Sulpicius
+   2 Sulpitius
+   2 Sunniva
+   1 Supplicius
+   2 Susanna
+   1 Sweden
+   4 Swithun
+   1 Syagrius
+   1 Sylvester
+   1 Symmachus
+   1 Symphorianus
+   1 Symphorosa
+   1 Symphronius
+   1 Syncletica
+   1 Syra
+   1 Syria
+   1 Syrus
+   1 Taigi
+   1 Talaricanus
+   1 Tancha
+   1 Tanco
+   1 Tarachus
+   1 Tarantaise
+   1 Tarasius
+   1 Tarsitia
+   2 Tatian
+   1 Tatiana
+   2 Taurinus
+   1 Telesphorus
+   1 Ten
+   1 Tenenan
+   1 Tenenanus
+   4 Terentius
+   1 Ternan
+   2 Tertullinus
+   1 Tetricus
+   1 Thaddeus
+   1 Thais
+   1 Thalilaeus
+   1 Tharba
+   1 Thaumaturgus
+   4 The
+   2 Thea
+   2 Thebaides
+   6 Thecla
+   1 Thelassius
+   1 Theliau
+   1 Theneva
+   5 Theobald
+   1 Theodard
+   1 Theodata
+   1 Theodatus
+   2 Theoderic
+   1 Theodogar
+   1 Theodolus
+   3 Theodora
+   9 Theodore
+   1 Theodorius
+   1 Theodorus
+   4 Theodosia
+   2 Theodosius
+   1 Theodulas
+   1 Theofrid
+   1 Theonas
+   1 Theonestus
+   1 Theonilla
+   1 Theopemptus
+   1 Theophanes
+   1 Theophilus
+   2 Theresa
+   1 Theuderius
+   1 Thirkeld
+   1 Thirkill
+  31 Thomas
+   1 Thorkill
+   2 Thorlac
+   2 Thorns
+   1 Thouret
+   1 Thrasilla
+   3 Three
+   1 Thuriaf
+   1 Thyrgillus
+   1 Thyrsus
+   1 Tibba
+   1 Tiberius
+   4 Tiburtius
+   1 Tichborne
+   1 Tigernach
+   1 Tigrius
+   1 Tilberht
+   1 Tillo
+   8 Timothy
+   1 Tirsus
+   2 Titus
+   2 Tochumra
+   1 Tommasi
+   1 Torpetis
+   1 Torquatus
+x   3 Transfiguration
+x   1 Translation
+   1 Tresain
+   1 Triduana
+   2 Trier
+   1 Triverius
+   1 Trojanus
+   1 Trojecia
+   3 Trophimus
+   1 Trudo
+   1 Trudpert
+   1 Tryphon
+   1 Tugdual
+   1 Tumba
+   5 Turibius
+   1 Turninus
+   1 Twelve
+   1 Twenty
+   1 Two
+   1 Tyrannio
+   1 Ubaldo
+   1 Ulfrid
+   1 Ulphia
+   1 Ulphus
+   1 Ulpian
+   1 Ulric
+   1 Ulrick
+   1 Ultan
+   3 Urban
+   1 Urbanus
+   1 Urbicius
+   3 Ursicinus
+   4 Ursinus
+   2 Ursmar
+   1 Ursula
+   5 Ursus
+   1 Useolus
+   1 Utica
+   1 VI
+   1 Valens
+   8 Valentine
+   3 Valeria
+   2 Valerian
+   5 Valerianus
+   3 Valeric
+   1 Valericus
+   6 Valerius
+   1 Vales
+   1 Vannes
+   1 Vasius
+   1 Vauge
+   5 Vedast
+   6 Venantius
+   2 Venerandus
+   8 Veranus
+   1 Verda
+   2 Veredemus
+   1 Verena
+   1 Verolus
+   3 Veronica
+   2 Veronus
+   1 Vianney
+   1 Viator
+  16 Victor
+   4 Victoria
+   1 Victorian
+   1 Victorianus
+   4 Victoricus
+   8 Victorinus
+   1 Victory
+   1 Victricius
+   2 Victurius
+   3 Vigil
+   4 Vigilius
+   2 Vigor
+   1 Vilbeta
+   1 Vinardus
+   1 Vincencianus
+  14 Vincent
+   2 Vindanus
+   1 Vindicianus
+   3 Virgilius
+  10 Virgin
+   2 Virgins
+   4 Visitation
+   1 Vitalian
+  10 Vitalis
+   1 Vito
+   4 Vitus
+   1 Viventiolus
+   1 Viventius
+   1 Vivianus
+   1 Vodoald
+   1 Voloc
+   1 Volusianus
+   1 Vulgan
+   1 Vulgis
+   1 Walbert
+   7 Walburga
+   1 Walderic
+   2 Waldetrudis
+   1 Waldrada
+   1 Walstan
+   3 Walter
+   1 Walthen
+   1 Waltrude
+   1 Walworth
+   1 Wandregisil
+   1 Waningus
+   1 Wasnulf
+   1 Waterson
+   3 Wenceslas
+   4 Wendelin
+   1 Weomad
+   1 Wereburghe
+   2 Werenfrid
+   1 Whiting
+   2 Wigbert
+   2 Wilfrid
+   1 Willebald
+   3 Willehad
+  22 William
+   1 Willibald
+   2 Willibrord
+   1 Wiltrudis
+   2 Winebald
+   1 Winifred
+   1 Winnin
+   2 Winnoc
+   1 Winwaloe
+   1 Wiro
+   1 Wistan
+   1 Withburge
+   1 Wittikund
+   2 Wolfgang
+   1 Woodfen
+   1 Woodhouse
+   1 Worbeta
+   1 Wulfhad
+   1 Wulfhilde
+   2 Wulfram
+   1 Wulmar
+   1 Wulsin
+   2 Wulstan
+   1 Wunibald
+   1 Xavier
+   2 Younger
+   1 Zaccaria
+   1 Zaccheus
+   1 Zachaeus
+   1 Zachary
+   1 Zdislava
+   6 Zeno
+   2 Zenobius
+   1 Zephyrin
+   1 Zita
+   2 Zoilus
+   2 Zosimas
+   2 Zosimus
+   4 Zoticus
+   8 [6082, in red]
+  18 [6082]
+   1 [BLS (with William); GTZ: Trent]
+   1 [BLS, GTZ: Scotland]
+   1 [BLS, without Florian; GTZ: Münster, southern France (without Florian)]
+   1 [BLS: Abbey of Croyland; GTZ: England]
+   1 [BLS: Austria]
+   1 [BLS: Avenay (Champagne)]
+   1 [BLS: Avignon]
+   1 [BLS: Brittany, Cornwall]
+   2 [BLS: Brittany]
+   1 [BLS: Cashel]
+   1 [BLS: Chester; PRI: England]
+   1 [BLS: County Tyrconnel]
+   7 [BLS: England]
+   1 [BLS: Fermanagh]
+   1 [BLS: Flanders]
+   1 [BLS: Glasgow]
+   1 [BLS: Hungary]
+   1 [BLS: Ireland; GTZ: Scotland]
+   1 [BLS: Ireland; HCC; PCP (Paris); PRI: England]
+   8 [BLS: Ireland]
+   1 [BLS: Kill-Broncha]
+   1 [BLS: Kilmore, Ireland]
+   1 [BLS: Limerick]
+   1 [BLS: Lyon]
+   1 [BLS: Madrid]
+   1 [BLS: Norwich]
+   1 [BLS: Orleans; GTZ: Paris, Reims, Sens, Tours; PCP (Paris)]
+   2 [BLS: Poland]
+   1 [BLS: Russia]
+   3 [BLS: Scotland]
+   1 [BLS: Sicily]
+   1 [BLS: Sweden, Denmark; GTZ: Scandinavia]
+   1 [BLS: Tochumra in Munster]
+   1 [BLS: Tuam, Ireland]
+   1 [BLS: Wales; GTZ: England; PRI: England]
+   1 [BLS: Wales]
+   1 [BLS: Waterford]
+   1 [BLS: northern England]
+   2 [BLS; 6082, in red]
+   2 [BLS; 6082]
+   1 [BLS; GTZ: Aix, Narbonne]
+   1 [BLS; GTZ: Aix]
+   1 [BLS; GTZ: Albi, Bourges]
+   1 [BLS; GTZ: Amiens only]
+   1 [BLS; GTZ: Amiens, Aquileia, Trier, Hungary]
+   1 [BLS; GTZ: Amiens, Paris; PCP (Paris)]
+   2 [BLS; GTZ: Amiens]
+   1 [BLS; GTZ: Apt]
+   1 [BLS; GTZ: Aquileia, northern Germany; PCP (Paris)]
+   1 [BLS; GTZ: Aquileia]
+   2 [BLS; GTZ: Arles]
+   1 [BLS; GTZ: Arras, Senlis, Sens, England; 6082, in red]
+   1 [BLS; GTZ: Auch, Spain]
+   2 [BLS; GTZ: Augustinians, Franciscans; PRI]
+   1 [BLS; GTZ: Augustinians; PRI]
+   1 [BLS; GTZ: Augustinians]
+   1 [BLS; GTZ: Autun]
+   1 [BLS; GTZ: Auxerre]
+   1 [BLS; GTZ: Bamberg, Meissen, Prague, Utrecht, Verdun, Worms, Hildesheim (Translation)]
+   1 [BLS; GTZ: Bamberg, Orden; PRI]
+   1 [BLS; GTZ: Basel, Constance, Strassburg]
+   3 [BLS; GTZ: Besançon]
+   1 [BLS; GTZ: Bourges, Tours]
+   1 [BLS; GTZ: Bremen, Cologne, Trier, France, Orden; HCC; PCP (Paris)]
+   1 [BLS; GTZ: Bremen, England, France, Scandinavia; PRI: England; WTS (Bruges), as Translation]
+   1 [BLS; GTZ: Bremen, Paderborn, France; HCC, without Rufinus; PCP (Paris), as Valerien]
+   1 [BLS; GTZ: Bremen]
+   1 [BLS; GTZ: Brittany]
+   1 [BLS; GTZ: Brixen, Magdeburg, Ratzeburg, Regensburg, Trent; 6082]
+   1 [BLS; GTZ: Brixen]
+   1 [BLS; GTZ: Cambrai, Paris, Noyon; PCP (Paris)]
+   1 [BLS; GTZ: Cambrai, Reims, Winchester]
+   1 [BLS; GTZ: Cambrai, Reims; PCP (Paris)]
+   1 [BLS; GTZ: Cambrai, Rouen]
+   6 [BLS; GTZ: Cambrai]
+   1 [BLS; GTZ: Carmelites]
+   1 [BLS; GTZ: Celestines; PCP (Paris)]
+   1 [BLS; GTZ: Chur, Liège, Metz, Utrecht, Worms, France, England; HCC; PCP (Paris), as Euverte]
+   1 [BLS; GTZ: Chur, Reims, Rouen, Auxerre, England]
+   1 [BLS; GTZ: Chur, Sitten, Constance]
+   1 [BLS; GTZ: Chur]
+   1 [BLS; GTZ: Cistercians, Cluniacs]
+   1 [BLS; GTZ: Cistercians, England; PRI: England]
+   1 [BLS; GTZ: Cistercians, France; PCP (Paris)]
+   1 [BLS; GTZ: Cistercians]
+   6 [BLS; GTZ: Clermont]
+   1 [BLS; GTZ: Cluniacs, France; PCP (Paris)]
+   1 [BLS; GTZ: Cluniacs, southern France; PCP (Paris)]
+   1 [BLS; GTZ: Cologne, Paderborn, Trier; 6082]
+   1 [BLS; GTZ: Cologne, Trier, Cambrai, Paris, Reims; PCP (Paris); WTS (Bruges), in red]
+   1 [BLS; GTZ: Cologne, Trier, Genf, Mainz, Lyon]
+   2 [BLS; GTZ: Cologne]
+   1 [BLS; GTZ: Constance, Chur]
+   1 [BLS; GTZ: Coutances]
+   1 [BLS; GTZ: Dijon]
+   1 [BLS; GTZ: Dominicans; HCC; PCP (Paris)]
+   2 [BLS; GTZ: Dominicans]
+   2 [BLS; GTZ: Durham; PRI: England]
+   1 [BLS; GTZ: Durham; PRI]
+   1 [BLS; GTZ: Eichstädt, Bamberg, Chur, Merseburg]
+   1 [BLS; GTZ: Eichstädt; PRI: England]
+   1 [BLS; GTZ: Eichstädt]
+   1 [BLS; GTZ: England, France, Norway; PCP (Paris), as Basille]
+   1 [BLS; GTZ: England, Lund]
+   1 [BLS; GTZ: England, Norway; PRI: England]
+   1 [BLS; GTZ: England, Orden; PCP (Paris)]
+   1 [BLS; GTZ: England, Paris, Rouen, Norway; PCP (Paris)]
+   1 [BLS; GTZ: England, Rouen, Scotland, Scandinavia]
+   1 [BLS; GTZ: England, Rouen]
+   1 [BLS; GTZ: England, Scotland, Carthusians; PRI: England]
+   1 [BLS; GTZ: England, Scotland, France; PCP (Paris), as Malo]
+   1 [BLS; GTZ: England, Scotland, France]
+   1 [BLS; GTZ: England, Scotland, Skandinavia, France; PRI: England]
+  16 [BLS; GTZ: England; PRI: England]
+   7 [BLS; GTZ: England]
+   1 [BLS; GTZ: Evreux]
+   1 [BLS; GTZ: France, Cistercians; PCP (Paris), as Seine or Signe]
+   1 [BLS; GTZ: France, England, Scandinavia, Hungary; PCP (Paris)]
+   1 [BLS; GTZ: France, England; PCP (Paris)]
+   1 [BLS; GTZ: France, sometimes Germany; HCC; PCP (Paris)]
+   1 [BLS; GTZ: France; PCP (Paris), in red]
+   1 [BLS; GTZ: France; PCP (Paris)]
+   5 [BLS; GTZ: France]
+   1 [BLS; GTZ: Franciscans (current use of Mar 24 is not medieval)]
+   1 [BLS; GTZ: Franciscans, Albi; PRI]
+   2 [BLS; GTZ: Franciscans]
+   1 [BLS; GTZ: Genf, Angers, Paris, Séez; PCP (Paris)]
+   1 [BLS; GTZ: Genf, Cistercians]
+   1 [BLS; GTZ: Genf, Paderborn, France, England, Scotland, Scandinavia, Orden; PCP (Paris)]
+   1 [BLS; GTZ: Genf, Rouen; PCP (Paris), as Clerc]
+   1 [BLS; GTZ: Genf, Sitten, Lyon]
+   1 [BLS; GTZ: Genf, Trier, Worms]
+   1 [BLS; GTZ: Gnesen, Cologne, Magdeburg, Ratzeburg]
+   1 [BLS; GTZ: Halberstadt, Hildesheim, Augsburg]
+   1 [BLS; GTZ: Halberstadt; PRI]
+   1 [BLS; GTZ: Hungary, Gnesen]
+   1 [BLS; GTZ: Hungary]
+   1 [BLS; GTZ: Italy]
+   1 [BLS; GTZ: Krakow, Benedictines; 6082, in red]
+   1 [BLS; GTZ: Langres, Limoges]
+   1 [BLS; GTZ: Langres]
+   1 [BLS; GTZ: Lausanne, France]
+   1 [BLS; GTZ: Lausanne, southern France]
+   1 [BLS; GTZ: LeMans]
+   2 [BLS; GTZ: Limoges]
+   1 [BLS; GTZ: Lisieux]
+   1 [BLS; GTZ: Liège, Cambrai, Scotland]
+   2 [BLS; GTZ: Liège, Cambrai]
+   1 [BLS; GTZ: Liège, Magdeburg, Paderborn, Cambrai, Winchester]
+   1 [BLS; GTZ: Liège, Paris, Soissons; PCP (Paris)]
+   1 [BLS; GTZ: Liège, Switzerland, France, England, Scotland, Orden; PCP (Paris)]
+   1 [BLS; GTZ: Liège; HCC]
+   2 [BLS; GTZ: Liège]
+   3 [BLS; GTZ: Lyon]
+   1 [BLS; GTZ: Magdeburg, Kammin, Lebus, Mainz, Ratzeburg, Cambrai, Scotland]
+   1 [BLS; GTZ: Magdeburg, Paderborn, Cambrai]
+   1 [BLS; GTZ: Mainz, Augsburg, Basel, Besançon]
+   1 [BLS; GTZ: Mainz, Trier, France]
+   1 [BLS; GTZ: Mainz, Trier, Metz, Switzerland, France; PCP (Paris)]
+   1 [BLS; GTZ: Mainz, southern France]
+   3 [BLS; GTZ: Mainz]
+   1 [BLS; GTZ: Meaux, Senlis, southern France]
+   1 [BLS; GTZ: Metz, France, England; PCP (Paris)]
+   1 [BLS; GTZ: Metz, France; PCP (Paris), as Menge]
+   1 [BLS; GTZ: Metz, France]
+   1 [BLS; GTZ: Metz, Genf, Lausanne, Fritzlar, France; PCP (Paris)]
+   1 [BLS; GTZ: Metz, Paderborn, Strassburg, France; PCP (Paris)]
+   1 [BLS; GTZ: Metz, Toul, Besançon]
+   1 [BLS; GTZ: Metz, Toul, Verdun; PCP (Paris)]
+   1 [BLS; GTZ: Metz, Toul]
+   1 [BLS; GTZ: Metz, Utrecht, Scotland, France; PCP (Paris)]
+   1 [BLS; GTZ: Metz]
+   1 [BLS; GTZ: Minden; PRI: England (as bishop of Canterbury)]
+   1 [BLS; GTZ: Mons (Transitus)]
+   1 [BLS; GTZ: Nantes]
+   1 [BLS; GTZ: Narbonne]
+   1 [BLS; GTZ: Nevers, Toul]
+   1 [BLS; GTZ: Noyon]
+   1 [BLS; GTZ: Orden, Châlons-sur-Marne]
+   1 [BLS; GTZ: Orden, York; PRI: England]
+   1 [BLS; GTZ: Orden; PRI (without Innocent)]
+   6 [BLS; GTZ: Orden; PRI]
+   3 [BLS; GTZ: Orden]
+   1 [BLS; GTZ: Paderborn, Verdun, France]
+   1 [BLS; GTZ: Paris, Reims, Rouen]
+   1 [BLS; GTZ: Paris, Reims; PCP (Paris)]
+   1 [BLS; GTZ: Paris, Rouen]
+   1 [BLS; GTZ: Paris; HCC]
+   1 [BLS; GTZ: Paris; PCP (Paris), as Cloud]
+   1 [BLS; GTZ: Paris; PCP (Paris), as Curien]
+   1 [BLS; GTZ: Paris; PCP (Paris), as Fare]
+   1 [BLS; GTZ: Paris; PCP (Paris), as Lunaire]
+   1 [BLS; GTZ: Paris; PCP (Paris), as Merry]
+   6 [BLS; GTZ: Paris; PCP (Paris)]
+   3 [BLS; GTZ: Paris]
+   1 [BLS; GTZ: Passau, France; HCC, without Basilissa]
+   1 [BLS; GTZ: Quimper]
+   1 [BLS; GTZ: Reims, Cambrai; WTS (Bruges), in red]
+   6 [BLS; GTZ: Reims]
+   1 [BLS; GTZ: Rodez]
+   1 [BLS; GTZ: Rouen, England, Scotland]
+   1 [BLS; GTZ: Rouen, Paris, Reims, Senlis; PCP (Paris)]
+   1 [BLS; GTZ: Salisbury]
+   1 [BLS; GTZ: Salzburg, Genf, nur hier beachtlich]
+   1 [BLS; GTZ: Salzburg, Hungary]
+   6 [BLS; GTZ: Salzburg]
+   1 [BLS; GTZ: Scandinavia, England, Rouen, Paris; PRI: England]
+   1 [BLS; GTZ: Scandinavia, England, Sleswig; PCP (Paris)]
+   3 [BLS; GTZ: Scandinavia]
+   1 [BLS; GTZ: Scotland, England; 6082]
+   1 [BLS; GTZ: Scotland; PRI: England]
+  24 [BLS; GTZ: Scotland]
+   1 [BLS; GTZ: Senlis]
+   1 [BLS; GTZ: Sens, Lausanne, LeMans, Aix (as bishop, martyr)]
+   1 [BLS; GTZ: Sens; PCP (Paris), in red]
+   4 [BLS; GTZ: Sens]
+   1 [BLS; GTZ: Sitten, Arles]
+   2 [BLS; GTZ: Sleswig, Scandinavia]
+   2 [BLS; GTZ: Soissons]
+   1 [BLS; GTZ: Spain, Narbonne]
+   1 [BLS; GTZ: St. Malo]
+   1 [BLS; GTZ: St. Pol de Léon]
+   1 [BLS; GTZ: Strassburg, Basel, France; PCP (Paris)]
+   1 [BLS; GTZ: Strassburg, Metz, Châlons-sur-Marne, Toul]
+   1 [BLS; GTZ: Strassburg, Metz, France; PCP (Paris)]
+   1 [BLS; GTZ: Switzerland (elsewhere moved to May 2)]
+   1 [BLS; GTZ: Switzerland, Metz, southern France]
+   1 [BLS; GTZ: Switzerland, Worms, Gran, Agram; PCP (Paris), as Verain]
+   1 [BLS; GTZ: Switzerland, southern Germany; 6082]
+   1 [BLS; GTZ: Switzerland]
+   1 [BLS; GTZ: Tarentaise]
+   1 [BLS; GTZ: Teutonic Knights, France; PCP (Paris)]
+   1 [BLS; GTZ: Teutonic Knights, Langres]
+   2 [BLS; GTZ: Teutonic Knights]
+   1 [BLS; GTZ: Thüringen]
+   1 [BLS; GTZ: Toulouse]
+   2 [BLS; GTZ: Tournai]
+   1 [BLS; GTZ: Tours, Rouen]
+   2 [BLS; GTZ: Tours]
+   1 [BLS; GTZ: Trent, southern France]
+   3 [BLS; GTZ: Trent]
+   1 [BLS; GTZ: Trier, Amiens, Tours]
+   1 [BLS; GTZ: Trier, France; PCP (Paris)]
+   1 [BLS; GTZ: Trier, southern France; PCP (Paris)]
+   1 [BLS; GTZ: Trier, southern France]
+   1 [BLS; GTZ: Trier; HBD: Toledo]
+   7 [BLS; GTZ: Trier]
+   1 [BLS; GTZ: Troyes (Translation)]
+   2 [BLS; GTZ: Troyes]
+   1 [BLS; GTZ: Utrecht, France; PCP (Paris)]
+   1 [BLS; GTZ: Utrecht; HCC, in red]
+   2 [BLS; GTZ: Utrecht; HCC]
+   2 [BLS; GTZ: Utrecht]
+   1 [BLS; GTZ: Uzès]
+   1 [BLS; GTZ: Vannes]
+   2 [BLS; GTZ: Verdun]
+   3 [BLS; GTZ: Vienne]
+   1 [BLS; GTZ: Wilhelmiten]
+   2 [BLS; GTZ: Winchester]
+   1 [BLS; GTZ: Worms]
+   1 [BLS; GTZ: York; PRI: England]
+   2 [BLS; GTZ: York]
+   1 [BLS; GTZ: in the fifteenth century often moved, usually to Jul 27; PCP (Paris), WTS (Bruges), in red]
+   1 [BLS; GTZ: modern usage; PRI]
+   1 [BLS; GTZ: modern usage]
+   1 [BLS; GTZ: northern France, England, Norway; PCP (Paris)]
+   1 [BLS; GTZ: northern France, England, Scotland, Norway; PCP (Paris)]
+   1 [BLS; GTZ: northern France, England, Scotland, Trier, Paderborn, Worms, Norway; PCP (Paris)]
+   1 [BLS; GTZ: northern France, Hungary; PCP (Paris)]
+   1 [BLS; GTZ: northern France, York]
+   1 [BLS; GTZ: northern France; HCC; PCP (Paris)]
+   3 [BLS; GTZ: northern France]
+   3 [BLS; GTZ: northern Germany]
+   1 [BLS; GTZ: predominantly northern Germany, France and England]
+   1 [BLS; GTZ: southern France, Carthusians]
+   1 [BLS; GTZ: southern France, Franciscans; PRI]
+   1 [BLS; GTZ: southern France, Orden; PRI]
+   1 [BLS; GTZ: southern France; PCP (Paris)]
+   9 [BLS; GTZ: southern France]
+   1 [BLS; GTZ: western Germany, France; PCP (Paris)]
+   1 [BLS; GTZ; HCC]
+   1 [BLS; GTZ; PCP (Paris), as Priest]
+   1 [BLS; GTZ; PCP (Paris); WTS (Bruges)]
+   4 [BLS; GTZ; PCP (Paris)]
+   1 [BLS; GTZ; PRI: England]
+   1 [BLS; GTZ; PRI]
+   9 [BLS; GTZ]
+   2 [BLS; HBD]
+   1 [BLS; HCC; PRI: England]
+   2 [BLS; HCC]
+   3 [BLS; MR]
+   1 [BLS; PCP (Paris), as Demettre]
+   1 [BLS; PCP (Paris), without Asterius]
+   1 [BLS; PCP (Paris); 6082, in red]
+   7 [BLS; PCP (Paris)]
+  14 [BLS; PRI: England]
+   2 [BLS; PRI; 6082, in red]
+   4 [BLS; PRI]
+   1 [BLS; WTS (Bruges), as bishop]
+   1 [BLS; WTS (Bruges)]
+ 921 [BLS]
+   1 [GTZ Metz, Verdun]
+   1 [GTZ, WTS: Bruges]
+   1 [GTZ:  Cambrai]
+   1 [GTZ: (modern usage)]
+   1 [GTZ: (not everywhere); HCC; PCP (Paris)]
+   1 [GTZ: Aachen, Paderborn, Toul]
+   1 [GTZ: Aachen, Tours; PCP (Paris), as Perpetue]
+   2 [GTZ: Aachen]
+   2 [GTZ: Abo only]
+   2 [GTZ: Abo]
+   1 [GTZ: Agram, Carmelites]
+   3 [GTZ: Agram]
+   1 [GTZ: Aix, Arles, Narbonne]
+   1 [GTZ: Aix, Arles, Paris]
+   1 [GTZ: Aix, Arles]
+   2 [GTZ: Aix, Narbonne]
+   7 [GTZ: Aix]
+   1 [GTZ: Albi, Bourges]
+   2 [GTZ: Albi, Narbonne]
+   6 [GTZ: Albi]
+   1 [GTZ: Amiens, Soissons; PCP (Paris)]
+   1 [GTZ: Amiens, St. Omer]
+   1 [GTZ: Amiens; BLS: Netherlands]
+   1 [GTZ: Amiens; HCC; PCP (Paris)]
+   1 [GTZ: Amiens; PCP (Paris), as Claudrien]
+  17 [GTZ: Amiens]
+   1 [GTZ: Angers, LeMans]
+  15 [GTZ: Angers]
+   1 [GTZ: Angoulême, Saintes, Limoges]
+   1 [GTZ: Angoulême]
+   8 [GTZ: Apt]
+   1 [GTZ: Aquileia only; PRI]
+   1 [GTZ: Aquileia, Augsburg, Salzburg, Gnesen, Prague, northern Italy, Hungary]
+   1 [GTZ: Aquileia, Constance, Krakow, Passau, Prague, Agram]
+   1 [GTZ: Aquileia, Salzburg, Passau]
+   1 [GTZ: Aquileia, Tournai]
+   1 [GTZ: Aquileia; HCC, without Tatian]
+  14 [GTZ: Aquileia]
+   1 [GTZ: Arles, Autun]
+  15 [GTZ: Arles]
+   3 [GTZ: Arras]
+   3 [GTZ: Artois]
+   3 [GTZ: Auch]
+   1 [GTZ: Augsburg (rare)]
+   1 [GTZ: Augsburg (since 1468)]
+   1 [GTZ: Augsburg only]
+   1 [GTZ: Augsburg, Bamberg, Breslau, Lebus]
+   1 [GTZ: Augsburg, Chur, Freising, Strassburg]
+   1 [GTZ: Augsburg, France (often moved to Nov 1)]
+   1 [GTZ: Augsburg, France; PCP (Paris)]
+   1 [GTZ: Augsburg, Freising, Paderborn]
+   1 [GTZ: Augsburg, Krakow]
+   1 [GTZ: Augsburg, Magdeburg]
+   1 [GTZ: Augsburg, Metz, France; PCP (Paris)]
+  14 [GTZ: Augsburg]
+   1 [GTZ: Augustinians, Franciscans]
+   3 [GTZ: Augustinians]
+   1 [GTZ: Autun, Sens, Tours]
+  14 [GTZ: Autun]
+   1 [GTZ: Auxerre, Cambrai]
+   1 [GTZ: Auxerre, Tours]
+  31 [GTZ: Auxerre]
+   2 [GTZ: Avignon]
+   1 [GTZ: Avranches, Paris, Tours; PCP (Paris), as Pair]
+   4 [GTZ: Avranches]
+   1 [GTZ: Bamberg, Basel, Bremen, Gnesen, Kammin, Magdeburg, Mainz, Minden, Utrecht, Gran, Luçon, Oléron]
+   1 [GTZ: Bamberg, Metz]
+   1 [GTZ: Bamberg, Paderborn]
+   1 [GTZ: Bamberg, Roskild]
+   1 [GTZ: Bamberg, Salzburg]
+   8 [GTZ: Bamberg]
+   1 [GTZ: Basel, Amiens]
+   1 [GTZ: Basel, Bremen, Kammin, Magdeburg]
+   2 [GTZ: Basel, Chur, Constance, Strassburg]
+   1 [GTZ: Basel, Chur, Constance]
+   1 [GTZ: Basel, Freising, Worms]
+   1 [GTZ: Basel, Metz, Strassburg, France; PCP (Paris), as Gendulph]
+   1 [GTZ: Basel, Strassburg]
+   1 [GTZ: Basel, northern France]
+   7 [GTZ: Basel]
+   1 [GTZ: Bayeux only]
+   1 [GTZ: Bayeux, Paris; PCP (Paris)]
+   1 [GTZ: Bayeux, Saintes, Tours]
+   1 [GTZ: Bayeux, Senlis]
+  11 [GTZ: Bayeux]
+   1 [GTZ: Beauvais; PCP (Paris)]
+   4 [GTZ: Beauvais]
+  15 [GTZ: Besançon]
+   1 [GTZ: Bordeaux, Limoges]
+   6 [GTZ: Bordeaux]
+   1 [GTZ: Bourges, Clermont]
+   2 [GTZ: Bourges, Sens]
+  18 [GTZ: Bourges]
+   1 [GTZ: Brandenburg, Flanders]
+   1 [GTZ: Brandenburg, Metz, Toul]
+   1 [GTZ: Bremen, Cologne, Magdeburg, Kammin, Passau, Mainz, Riga]
+   1 [GTZ: Bremen, Cologne, Trier, Gnesen, Prague, France; HCC; PCP (Paris)]
+   1 [GTZ: Bremen, Cologne, Verdun]
+   1 [GTZ: Bremen, Hildesheim, Minden, Osnabrück, Verdun]
+   1 [GTZ: Bremen, Krakow, Regensburg, Strassburg]
+   1 [GTZ: Bremen, Metz, France]
+   1 [GTZ: Bremen, Minden, Copenhagen; HCC, as priest]
+   1 [GTZ: Bremen, Salzburg, Trier, Hungary; HCC]
+   1 [GTZ: Bremen, Verdun, Minden]
+   1 [GTZ: Bremen; WTS (Bruges), with Julitta]
+   5 [GTZ: Bremen]
+   1 [GTZ: Breslau, France]
+   1 [GTZ: Breslau, Krakow, Gnesen, Meissen]
+   1 [GTZ: Breslau, Lebus, northern France, Genf]
+   4 [GTZ: Breslau]
+   1 [GTZ: Brittany, Paris; PCP (Paris)]
+  10 [GTZ: Brittany]
+   1 [GTZ: Brixen, Apt]
+   1 [GTZ: Brixen, Speyer]
+   1 [GTZ: Brixen, southern France]
+   5 [GTZ: Brixen]
+   2 [GTZ: Bruges]
+   1 [GTZ: Brussels]
+   2 [GTZ: Béziers]
+   4 [GTZ: Cahors]
+   2 [GTZ: Camaldoensians]
+   1 [GTZ: Cambrai, Reims, Tours]
+  12 [GTZ: Cambrai]
+   1 [GTZ: Canterbury]
+   6 [GTZ: Carcassonne]
+   6 [GTZ: Carmelites]
+   5 [GTZ: Chalon-sur-Saône]
+   1 [GTZ: Chartres, Poitiers]
+   1 [GTZ: Chartres, Rouen, Tours, Durham]
+  10 [GTZ: Chartres]
+   1 [GTZ: Chur, Mainz, Worms]
+   1 [GTZ: Chur, Sens]
+   1 [GTZ: Chur, Trier, Salzburg]
+   1 [GTZ: Chur, Trier]
+   1 [GTZ: Chur, southern France]
+   1 [GTZ: Chur; 6082]
+   8 [GTZ: Chur]
+   1 [GTZ: Châlons-sur-Marne, Amiens]
+   1 [GTZ: Châlons-sur-Marne, Sens]
+  14 [GTZ: Châlons-sur-Marne]
+   3 [GTZ: Cistercians]
+  19 [GTZ: Clermont]
+   5 [GTZ: Cluniacs]
+   1 [GTZ: Cluny, Arles, Lyon]
+   1 [GTZ: Cologne, Constance, Metz, France; PCP (Paris)]
+   1 [GTZ: Cologne, England]
+   1 [GTZ: Cologne, Mainz, Trier, Basel, Reims]
+   1 [GTZ: Cologne, Salzburg, Trier, Teutonic Knights]
+   1 [GTZ: Cologne, Stift Wunstorf]
+   1 [GTZ: Cologne, Toul]
+   1 [GTZ: Cologne, Trier, Mainz, Cambrai, Reims; HCC]
+   1 [GTZ: Cologne, Trier, Worms, France]
+   2 [GTZ: Cologne, Trier]
+   1 [GTZ: Cologne; HCC, in red]
+  18 [GTZ: Cologne]
+   1 [GTZ: Comminges]
+   1 [GTZ: Constance, Chartres]
+   1 [GTZ: Constance, Mainz]
+   2 [GTZ: Constance, Switzerland]
+   3 [GTZ: Constance]
+   3 [GTZ: Coutances]
+   1 [GTZ: Dax, Oléron]
+   1 [GTZ: Digne]
+   1 [GTZ: Dijon]
+   3 [GTZ: Dominicans]
+   1 [GTZ: Domininicans]
+   1 [GTZ: Durham]
+   1 [GTZ: Eichstädt, Narbonne, Tours]
+   1 [GTZ: Eichstädt]
+   3 [GTZ: Embrun]
+   1 [GTZ: England, Amiens, Meaux (actually Translation)]
+   1 [GTZ: England, France; PCP (Paris)]
+   1 [GTZ: England, Norway; PRI: England]
+   1 [GTZ: England, Rouen, Chartres; PCP (Paris)]
+   1 [GTZ: England, Scotland, France]
+   1 [GTZ: England, Scotland]
+   2 [GTZ: England; PRI: England]
+  13 [GTZ: England]
+   5 [GTZ: Evreux]
+   1 [GTZ: Exeter; Hereford (as Piran)]
+   3 [GTZ: Exeter]
+   1 [GTZ: Flanders]
+   1 [GTZ: France, England]
+   1 [GTZ: France, Orden]
+   1 [GTZ: France; 6082]
+   1 [GTZ: France; PCP (Paris), as Sernin]
+   1 [GTZ: France; PCP (Paris)]
+  10 [GTZ: France]
+   1 [GTZ: Franciscans, Brittany]
+   7 [GTZ: Franciscans]
+   1 [GTZ: Freising, Minden, Sitten]
+   8 [GTZ: Freising]
+   2 [GTZ: Fritzlar]
+   4 [GTZ: Fréjus]
+   4 [GTZ: Gap]
+   1 [GTZ: Genf, Amiens, Angers, Langres]
+   1 [GTZ: Genf, Embrun, Lyon]
+   1 [GTZ: Genf, Grenoble]
+   1 [GTZ: Genf, Lausanne, France; PCP (Paris)]
+   3 [GTZ: Genf]
+   1 [GTZ: Gnesen, Agram]
+   1 [GTZ: Gnesen, Krakow]
+   2 [GTZ: Gnesen, Magdeburg]
+   1 [GTZ: Gnesen, Prague, Agram]
+   1 [GTZ: Gnesen, Strassburg, France, Orden; PCP (Paris)]
+   1 [GTZ: Gnesen, Utrecht; HCC]
+   8 [GTZ: Gnesen]
+   1 [GTZ: Gran, Agram]
+   1 [GTZ: Gran]
+   1 [GTZ: Grasse]
+   1 [GTZ: Halberstadt]
+   3 [GTZ: Hereford]
+   1 [GTZ: Hildesheim, Minden]
+   1 [GTZ: Hildesheim, Paderborn]
+   1 [GTZ: Hildesheim, northern France; HCC]
+   7 [GTZ: Hildesheim]
+   1 [GTZ: Hungary and Russia; 6082]
+   1 [GTZ: Hungary, Russia]
+  10 [GTZ: Hungary]
+   1 [GTZ: Italy]
+   1 [GTZ: Kammin, Magdeburg]
+   5 [GTZ: Kammin]
+  17 [GTZ: Langres]
+   5 [GTZ: Laon]
+   1 [GTZ: Lausanne, France; PCP (Paris)]
+   1 [GTZ: Lausanne, Sitten]
+   4 [GTZ: Lausanne]
+   1 [GTZ: LeMans, Paris; PCP (Paris)]
+   1 [GTZ: LeMans, Séez]
+  15 [GTZ: LeMans]
+   3 [GTZ: Lebus]
+   1 [GTZ: Lectoure]
+   1 [GTZ: Lille]
+   1 [GTZ: Limoges, Cluniacs]
+   1 [GTZ: Limoges, Périgueux]
+  18 [GTZ: Limoges]
+   1 [GTZ: Lisieux]
+   2 [GTZ: Liège, Cambrai]
+   1 [GTZ: Liège, Châlons-sur-Marne, Chartres, Tournai; PCP (Paris)]
+   1 [GTZ: Liège, Mons]
+   1 [GTZ: Liège, Sens]
+   1 [GTZ: Liège, Utrecht]
+   1 [GTZ: Liège; BLS: Brussels]
+   1 [GTZ: Liège; WTS (Bruges), without Gondulph]
+  18 [GTZ: Liège]
+   1 [GTZ: London]
+   1 [GTZ: Lower Rhine; 6082; PCP (Paris)]
+   2 [GTZ: Lund]
+   1 [GTZ: Lyon, Sitten]
+  24 [GTZ: Lyon]
+   1 [GTZ: Macon]
+   1 [GTZ: Magdeburg, Brandenburg, Havelburg, Ratzeburg; Chur, Sitten (with Julian)]
+   1 [GTZ: Magdeburg, Halberstadt]
+   1 [GTZ: Magdeburg, Kammin, Ratzeburg]
+   1 [GTZ: Magdeburg, Kammin]
+   1 [GTZ: Magdeburg, Lebus, Ratzeburg]
+   1 [GTZ: Magdeburg, Metz, Hungary]
+   1 [GTZ: Magdeburg, Münster, Prague, Ratzeburg, Narbonne, Paris, Senlis; PCP (Paris)]
+   1 [GTZ: Magdeburg, Ratzeburg, Gnesen, Amiens, Arras, Beauvais]
+   1 [GTZ: Magdeburg, Ratzeburg, Lausanne, Aix]
+   1 [GTZ: Magdeburg, Ratzeburg, southern France]
+   8 [GTZ: Magdeburg, Ratzeburg]
+   1 [GTZ: Magdeburg, Strassburg]
+  14 [GTZ: Magdeburg]
+   1 [GTZ: Mainz, Basel]
+   1 [GTZ: Mainz, Cologne, Bremen, Magdeburg, Trier; HCC]
+   1 [GTZ: Mainz, Cologne, Trier; HCC]
+   1 [GTZ: Mainz, Gnesen, Cologne, Salzburg, northern France, Arras (Translation); PCP (Paris)]
+   1 [GTZ: Mainz, Rodez]
+   1 [GTZ: Mainz, Rouen (Obitus)]
+   1 [GTZ: Mainz, Teutonic Knights]
+   1 [GTZ: Mainz, Trier, southern France]
+   1 [GTZ: Mainz, Trier]
+   1 [GTZ: Mainz; HCC]
+   9 [GTZ: Mainz]
+   1 [GTZ: Marseille]
+   1 [GTZ: Marseilles]
+   1 [GTZ: Meaux, Châlons-sur-Marne]
+   1 [GTZ: Meaux, Reims, Troyes]
+   1 [GTZ: Meaux, Senlis]
+  10 [GTZ: Meaux]
+   3 [GTZ: Meissen]
+   2 [GTZ: Mende, Clermont]
+   1 [GTZ: Mende]
+   1 [GTZ: Merseburg]
+   1 [GTZ: Metz, Albi]
+   1 [GTZ: Metz, Angers]
+   1 [GTZ: Metz, Autun, Lyon; PCP (Paris)]
+   1 [GTZ: Metz, Cambrai, Langres, Reims]
+   2 [GTZ: Metz, France; PCP (Paris)]
+   1 [GTZ: Metz, France]
+   1 [GTZ: Metz, Liège, southern France]
+   1 [GTZ: Metz, Liège]
+   1 [GTZ: Metz, Magdeburg, Brandenburg, Kammin]
+   1 [GTZ: Metz, Passau]
+   1 [GTZ: Metz, Sitten, southern France]
+   1 [GTZ: Metz, Strassburg]
+   1 [GTZ: Metz, Toul, Verdun]
+   3 [GTZ: Metz, Toul]
+   1 [GTZ: Metz, Tours]
+   1 [GTZ: Metz, Verdun, Lyon]
+   2 [GTZ: Metz, Verdun]
+  22 [GTZ: Metz]
+   1 [GTZ: Minden, Verdun]
+   1 [GTZ: Minden; HCC, without Dorothy]
+   4 [GTZ: Minden]
+   5 [GTZ: Mons]
+   1 [GTZ: Münster, Osnabrück]
+   4 [GTZ: Münster]
+   2 [GTZ: Nantes]
+   8 [GTZ: Narbonne]
+   2 [GTZ: Nevers]
+   1 [GTZ: Norway, Orden]
+   1 [GTZ: Norway, Scotland]
+  11 [GTZ: Norway]
+   5 [GTZ: Noyon]
+   1 [GTZ: Odense]
+   2 [GTZ: Oléron]
+   1 [GTZ: Orange]
+   1 [GTZ: Orden, southern France]
+   4 [GTZ: Orden]
+   1 [GTZ: Orléans, Sens]
+   4 [GTZ: Orléans]
+   1 [GTZ: Osnabrück, Utrecht; HCC]
+   1 [GTZ: Paderborn only; HCC]
+   1 [GTZ: Paderborn, LeMans, Sens]
+   1 [GTZ: Paderborn, LeMans]
+   1 [GTZ: Paderborn, Liège, Trier, southern France]
+   1 [GTZ: Paderborn, Riga]
+  12 [GTZ: Paderborn]
+   1 [GTZ: Paris only; PCP (Paris)]
+   1 [GTZ: Paris, Angers]
+   1 [GTZ: Paris, Châlons-sur-Marne; PCP (Paris)]
+   1 [GTZ: Paris, LeMans; PCP (Paris)]
+   1 [GTZ: Paris, Rouen; PCP (Paris)]
+   2 [GTZ: Paris, Sens; PCP (Paris)]
+   1 [GTZ: Paris, Soissons]
+   1 [GTZ: Paris, Tours; HCC; PCP (Paris), as Mémin]
+   1 [GTZ: Paris, Tours; PCP (Paris)]
+   1 [GTZ: Paris; (PCP (Paris)]
+   1 [GTZ: Paris; PCP (Paris), as Leon or Liène]
+   1 [GTZ: Paris; PCP (Paris), as Nom]
+   1 [GTZ: Paris; PCP (Paris), as Senier]
+   1 [GTZ: Paris; PCP (Paris), as Thibault]
+  18 [GTZ: Paris; PCP (Paris)]
+   8 [GTZ: Paris]
+   1 [GTZ: Passau, Strassburg, Trier, Trent (Translation)]
+   3 [GTZ: Passau]
+   1 [GTZ: Paulines]
+   1 [GTZ: Poitiers, Luçon]
+   1 [GTZ: Poitiers, Saintes]
+   1 [GTZ: Poitiers, Tours; BLS: Vannes]
+  14 [GTZ: Poitiers]
+   2 [GTZ: Praemonstrensians]
+   1 [GTZ: Prague, Gnesen, Meissen]
+   2 [GTZ: Prague, Gnesen]
+   1 [GTZ: Prague, Lebus]
+   3 [GTZ: Prague]
+   1 [GTZ: Puy, Tulle]
+   4 [GTZ: Puy]
+   1 [GTZ: Périgueux; PCP (Paris)]
+   1 [GTZ: Périgueux]
+   1 [GTZ: Quimper]
+   1 [GTZ: Ratzeburg, Schwerin, Lübeck, Sleswig]
+   3 [GTZ: Ratzeburg]
+   1 [GTZ: Regensburg, France]
+   4 [GTZ: Regensburg]
+   1 [GTZ: Reims, Rouen, Cambrai, Arras (Translation)]
+   1 [GTZ: Reims, Rouen, Sens, Langres, Angers]
+  12 [GTZ: Reims]
+   2 [GTZ: Rennes]
+   6 [GTZ: Rodez]
+   1 [GTZ: Rome; PCP (Paris)]
+   1 [GTZ: Roskild]
+   1 [GTZ: Rouen (Revelation), Bourges (Translation)]
+   1 [GTZ: Rouen, Winchester]
+  12 [GTZ: Rouen]
+   1 [GTZ: Russia only]
+   6 [GTZ: Russia]
+   1 [GTZ: Saint Lizier]
+  11 [GTZ: Saintes]
+   3 [GTZ: Salisbury]
+   1 [GTZ: Salzburg and Suffragane]
+   1 [GTZ: Salzburg only]
+   1 [GTZ: Salzburg, Augsburg, Eichstädt]
+   1 [GTZ: Salzburg, Chur, Meissen, Metz, France; PCP (Paris); WTS (Bruges), in red]
+   1 [GTZ: Salzburg, Eichstädt]
+   1 [GTZ: Salzburg, Five Churches; HCC]
+   1 [GTZ: Salzburg, France]
+   1 [GTZ: Salzburg, Gnesen]
+   1 [GTZ: Salzburg, Osnabrück, Paderborn, France, Aquileia]
+   1 [GTZ: Salzburg, Prague]
+  10 [GTZ: Salzburg]
+   1 [GTZ: San Marino]
+   1 [GTZ: Scandinavia (usually)]
+   1 [GTZ: Scandinavia, Prague]
+   8 [GTZ: Scandinavia]
+   1 [GTZ: Schwerin]
+   1 [GTZ: Scotland, Salisbury, St. Pol de Léon]
+  45 [GTZ: Scotland]
+  11 [GTZ: Senlis]
+   1 [GTZ: Sens only]
+   1 [GTZ: Sens, Langres, Paris; PCP (Paris)]
+  32 [GTZ: Sens]
+   1 [GTZ: Skara only]
+   2 [GTZ: Skara]
+   1 [GTZ: Sleswig, Scandinavia (since 1436)]
+   1 [GTZ: Sleswig, Scandinavia, Finnland (as king)]
+   5 [GTZ: Sleswig, Scandinavia]
+   2 [GTZ: Sleswig]
+   1 [GTZ: Soest]
+  15 [GTZ: Soissons]
+   1 [GTZ: Spalato]
+   1 [GTZ: Speyer, Worms, Würzburg, Breslau, Salzburg (Translation)]
+   1 [GTZ: Speyer, Worms]
+   3 [GTZ: Speyer]
+   1 [GTZ: St. Avold]
+   1 [GTZ: St. Brieuc]
+   4 [GTZ: St. Malo]
+   2 [GTZ: St. Omer]
+   9 [GTZ: St. Pol de Léon]
+   1 [GTZ: Strassburg, Basel]
+   1 [GTZ: Strassburg, Constance]
+   1 [GTZ: Strassburg, Poitiers]
+   1 [GTZ: Strassburg, Trier (Translation)]
+   1 [GTZ: Strassburg, Worms, France; PCP (Paris); 6082]
+   5 [GTZ: Strassburg]
+   1 [GTZ: Switzerland, Constance, Magdeburg, Strassburg, Besançon]
+   1 [GTZ: Switzerland, France, Besançon]
+   1 [GTZ: Switzerland, Magdeburg, Ratzeburg, Bamberg, Strassburg]
+   1 [GTZ: Switzerland, Scotland]
+   5 [GTZ: Switzerland]
+   1 [GTZ: Séez, Paris; PCP (Paris), as Godegrand]
+   4 [GTZ: Séez]
+   1 [GTZ: Tarbes]
+   1 [GTZ: Tarentaise]
+   1 [GTZ: Teutonic Knights, Carmelites]
+   1 [GTZ: Teutonic Knights, France; PCP (Paris)]
+   1 [GTZ: Teutonic Knights, Genf, Trent, Italy, Russia; 6082]
+   1 [GTZ: Teutonic Knights, southern France, Hungary]
+   2 [GTZ: Teutonic Knights]
+   7 [GTZ: Thérouanne]
+   1 [GTZ: Toul, Verdun]
+  14 [GTZ: Toul]
+   1 [GTZ: Toulon]
+   1 [GTZ: Toulouse, Narbonne (Translation); Limoges (Revelation)]
+   4 [GTZ: Toulouse]
+   1 [GTZ: Tournai, Salisbury (Translation)]
+   1 [GTZ: Tournai, St. Andrews]
+   7 [GTZ: Tournai]
+   1 [GTZ: Tours, Bordeaux]
+  22 [GTZ: Tours]
+   1 [GTZ: Trent, Arles; 6082]
+   7 [GTZ: Trent]
+   1 [GTZ: Trier, Aix, Amiens]
+   1 [GTZ: Trier, Bourges, Sens]
+   1 [GTZ: Trier, Braunschweig]
+   1 [GTZ: Trier, Chur]
+   1 [GTZ: Trier, Cologne]
+   1 [GTZ: Trier, Ermld.]
+   1 [GTZ: Trier, France; PCP (Paris); WTS (Bruges), as bishop]
+   1 [GTZ: Trier, Johann., southern France]
+   1 [GTZ: Trier, Liège, France; PCP (Paris)]
+   1 [GTZ: Trier, Lyon]
+   1 [GTZ: Trier, Magdeburg]
+   1 [GTZ: Trier, Mainz]
+   1 [GTZ: Trier, Merseburg]
+   1 [GTZ: Trier; 6082]
+   1 [GTZ: Trier; HCC]
+  57 [GTZ: Trier]
+   1 [GTZ: Troyes only]
+   1 [GTZ: Troyes, Auxerre]
+  21 [GTZ: Troyes]
+   1 [GTZ: Tréguier, St. Pol de Léon]
+   1 [GTZ: Tréguier]
+   1 [GTZ: Tulle]
+   1 [GTZ: Upsala only]
+   1 [GTZ: Utrecht (Translation); HCC, in red]
+   1 [GTZ: Utrecht, Cambrai]
+   1 [GTZ: Utrecht, Chur]
+   1 [GTZ: Utrecht, Exeter]
+   1 [GTZ: Utrecht, Reims, Tours]
+   1 [GTZ: Utrecht; HCC, in red]
+   5 [GTZ: Utrecht; HCC]
+   7 [GTZ: Utrecht]
+   4 [GTZ: Uzès]
+   1 [GTZ: Vaison]
+   3 [GTZ: Valence]
+   3 [GTZ: Vannes]
+   1 [GTZ: Vence]
+   1 [GTZ: Venice, Dominicans]
+   1 [GTZ: Venice]
+   2 [GTZ: Verdun, Meaux]
+  13 [GTZ: Verdun]
+   1 [GTZ: Vienne, Lyon]
+   7 [GTZ: Vienne]
+   1 [GTZ: Viviers, Lyon]
+   1 [GTZ: Viviers]
+   1 [GTZ: Winchester (Passion); Osnabrück (Translation)]
+   1 [GTZ: Winchester; PRI: England]
+  13 [GTZ: Winchester]
+   1 [GTZ: Worms, Speyer, France]
+   1 [GTZ: Worms, Würzburg]
+   1 [GTZ: Worms, southern France]
+   1 [GTZ: Worms; HCC, without Eusebius]
+   8 [GTZ: Worms]
+   1 [GTZ: Würzburg, with Magnus]
+   6 [GTZ: Würzburg]
+   5 [GTZ: York]
+   1 [GTZ: als Genossen des Valentine, zum Datieren nicht verwendet]
+   1 [GTZ: central France; PCP (Paris)]
+   1 [GTZ: in Germany, only remarkable for Magdeburg; PCP (Paris); WTS (Bruges), without Apollinaris]
+   1 [GTZ: less common in Germany; PCP (Paris)]
+   1 [GTZ: more commonly on Nov 21)]
+   1 [GTZ: more commonly on Nov 21; PCP (Paris)]
+   1 [GTZ: mostly southern Germany; HCC]
+   1 [GTZ: northern France, England]
+   1 [GTZ: northern France; PCP (Paris), in red]
+   4 [GTZ: northern France; PCP (Paris)]
+   1 [GTZ: northern France]
+   1 [GTZ: northern Germany, Amiens]
+   1 [GTZ: northern Germany, England, France, Scandinavia; PCP (Paris)]
+   1 [GTZ: northern Germany, Reims]
+   1 [GTZ: northern Germany, Sens]
+   1 [GTZ: nowadays Aug 4; PCP (Paris)]
+   1 [GTZ: sometimes moved to Nov 3]
+   1 [GTZ: southern France, Cluniacs]
+   1 [GTZ: southern France, Metz; PCP (Paris), without Barula]
+   1 [GTZ: southern France, Paris; PCP (Paris)]
+   1 [GTZ: southern France, Spain]
+   1 [GTZ: southern France; HCC]
+   1 [GTZ: southern France; PCP (Paris), as Tiburce]
+  22 [GTZ: southern France]
+   1 [GTZ: southern Germany, Switzerland]
+   1 [GTZ: usually France and England]
+   1 [GTZ; HCC; PCP (Paris); WTS (Bruges)]
+   1 [GTZ; HCC; WTS (Bruges); PCP (Paris)]
+   5 [GTZ; HCC]
+   1 [GTZ; PCP (Paris), as Albaire]
+   1 [GTZ; PCP (Paris); WTS (Bruges); 6082, in red]
+   1 [GTZ; PCP (Paris); WTS (Bruges)]
+   6 [GTZ; PCP (Paris)]
+   1 [GTZ; PRI: England (as queen)]
+   1 [GTZ; PRI: England]
+   4 [GTZ; WTS (Bruges)]
+   1 [GTZ;HCC]
+  40 [GTZ]
+   1 [HBD]
+   1 [HCC, PCP (Paris), in red; WTS (Bruges), sometimes in red]
+   1 [HCC, in red]
+   2 [HCC; 6082]
+   1 [HCC; PCP (Paris); WTS (Bruges)]
+   1 [HCC; PCP (Paris)]
+   1 [HCC; WTS (Bruges), as deacon]
+   1 [HCC; WTS (Bruges), in red]
+   1 [HCC; WTS (Bruges); PCP (Paris)]
+   3 [HCC; WTS (Bruges)]
+   1 [HCC; as martyr; WTS (Bruges)]
+  33 [HCC]
+   1 [MR; GTZ: Bamberg, Mainz, Münster, Riga]
+   1 [MR; GTZ: Camaldoensians]
+   1 [MR; GTZ: Dominicans (Translation)]
+   1 [MR; GTZ: Krakow (Death)]
+   1 [MR; GTZ: Scotland]
+   1 [MR; PCP (Paris)]
+  76 [MR]
+   1 [PCP (Paris), as Anacletus]
+   1 [PCP (Paris), as Baudent]
+   1 [PCP (Paris), as Christine]
+   1 [PCP (Paris), as Dominic]
+   1 [PCP (Paris), as Emerence]
+   1 [PCP (Paris), as Emille]
+   1 [PCP (Paris), as Felix]
+   1 [PCP (Paris), as Florent]
+   1 [PCP (Paris), as Germanus]
+   1 [PCP (Paris), as Gobert]
+   1 [PCP (Paris), as Just]
+   1 [PCP (Paris), as Lucien]
+   1 [PCP (Paris), as Marcel]
+   1 [PCP (Paris), as Mondain]
+   1 [PCP (Paris), as Presme]
+   1 [PCP (Paris), as Proces]
+   1 [PCP (Paris), as Profer]
+   1 [PCP (Paris), as Profert]
+   1 [PCP (Paris), as Vandrille]
+   2 [PCP (Paris), as Victor]
+   1 [PCP (Paris), in red]
+   3 [PCP (Paris): Notre Dame]
+   1 [PCP (Paris); GTZ: Paris, Rouen]
+   6 [PCP (Paris); WTS (Bruges)]
+ 126 [PCP (Paris)]
+   5 [PRI: England]
+   2 [PRI]
+   1 [WTS (Bruges), sometimes in red]
+   1 [WTS (Bruges); PCP (Paris)]
+ 135 [WTS (Bruges)]
+   1 [and Trier]
+   1 [and son]
+   1 [arch]
+   1 [common; 6082, as Vigil]
+   1 [common; 6082, as two saints Felix, both in red]
+   1 [common; 6082, as two saints Valentine]
+  27 [common; 6082, in red]
+   1 [common; BLS: France and England; PCP (Paris), WTS (Bruges), in red]
+   1 [common; BLS: Naples; GTZ: Bremen, Gnesen (except Krakow), Magdeburg, Kammin, Trier, France]
+   1 [common; GTZ: Albi]
+   1 [common; GTZ: Aquileia, Brixen, Sitten, Troyes; 6082, in red]
+   1 [common; GTZ: Aquileia, Genf, France (with exceptions), Italy, Scandinavia (except Finland), England]
+   1 [common; GTZ: Augustinians, Benedictines, Franciscans; 6082, in red]
+   1 [common; GTZ: Besançon (as confessor)]
+   1 [common; GTZ: Bremen, Cologne, Mainz, Trier, Orden, northern France]
+   1 [common; GTZ: Bremen, Sleswig]
+   1 [common; GTZ: Cologne, Magdeburg, Mainz, Prague, Basel, Scandinavia, France]
+   1 [common; GTZ: Dominicans]
+   1 [common; GTZ: France]
+   1 [common; GTZ: Franciscans]
+   1 [common; GTZ: Freising, Constance (with Macarius); PCP (Paris), 6082, in red]
+   1 [common; GTZ: Halberstadt, Hildesheim]
+   1 [common; GTZ: Lyon, and elsewhere]
+   1 [common; GTZ: Magdeburg (with Pamphilus)]
+   1 [common; GTZ: Mainz, Orden, France; 6082, in red]
+   1 [common; GTZ: Mainz; HCC, PCP (Paris), without Marcellinus]
+   1 [common; GTZ: Orden, Aquileia, Trent; 6082, in red]
+   1 [common; GTZ: Orden, France, England; 6082, in red]
+   1 [common; GTZ: Orden, France; PCP (Paris), in red; WTS (Bruges), sometimes as bishop]
+   1 [common; GTZ: Osnabrück]
+   1 [common; GTZ: Prague, Orden]
+   1 [common; GTZ: Salzburg, Albi, Orden; 6082, in red]
+   1 [common; GTZ: Salzburg, England, Scotland, France; PRI: England]
+   1 [common; GTZ: Spain, Sens]
+   1 [common; GTZ: Speyer, Basel, Constance, Orden, southern France]
+   1 [common; GTZ: Speyer]
+   1 [common; GTZ: Switzerland, Erml., Gnesen, France, Scandinavia, York, Orden]
+   1 [common; GTZ: Switzerland, France, Orden; 6082, in red]
+   1 [common; GTZ: Switzerland, Orden, southern France]
+   1 [common; GTZ: Trier, Cologne, Soissons, Rennes, Coutances, Tartenaise; PRI: England]
+   1 [common; GTZ: Trier, France, Orden]
+   1 [common; GTZ: Worms]
+   1 [common; GTZ: celebrated on Leap Day in a leap year]
+   1 [common; GTZ: northern France, England, Scotland; PRI: England]
+   1 [common; GTZ: northern Germany, Scandinavia, England and Orden (Deposition); WTS (Bruges), in red]
+   1 [common; GTZ: sometimes moved to Aug 27]
+   1 [common; GTZ: southern Germany, France, zu Datierungen wenig verwendet, eigentl. Translation]
+   2 [common; HCC, 6082, in red]
+   1 [common; HCC, 6082, without Lupicinus]
+   3 [common; HCC, PCP (Paris), WTS (Bruges), 6082, in red]
+   2 [common; HCC, PCP (Paris), WTS (Bruges), in red]
+   1 [common; HCC, WTS (Bruges), in red]
+   2 [common; HCC, in red; PRI: England]
+   4 [common; HCC, in red]
+   1 [common; HCC, without Crescentia]
+   1 [common; HCC, without Martinianus]
+   1 [common; HCC, without Maximus; PCP (Paris), as Valerien]
+   1 [common; MR, with Joachim]
+   1 [common; PCP (Paris), 6082, in red; WTS (Bruges), sometimes in red]
+   3 [common; PCP (Paris), 6082, in red]
+   3 [common; PCP (Paris), WTS (Bruges), 6082, in red]
+   1 [common; PCP (Paris), WTS (Bruges), in red]
+   1 [common; PCP (Paris), as Anastasius]
+   1 [common; PCP (Paris), as Basille]
+   1 [common; PCP (Paris), as Marin]
+   1 [common; PCP (Paris), in red; 6082, Sebastian in red]
+   1 [common; PCP (Paris), in red; WTS (Bruges), sometimes in red]
+   1 [common; PCP (Paris), in red]
+   5 [common; PRI: England]
+   1 [common; WTS (Bruges), 6082, in red]
+   1 [common; WTS (Bruges), in red]
+   1 [common; WTS (Bruges), sometimes bishop, martyr); PCP (Paris), as Peronnelle]
+   1 [common; WTS (Bruges), sometimes in red]
+   1 [common; WTS (Bruges), without Marcus]
+   1 [common; WTS (Bruges), without Peter; PCP (Paris), as Mathurin]
+   1 [common; often without Dorothy]
+ 182 [common]
+   1 [confessor]
+   1 [martyr]
+   1 [of Austria]
+   1 [of Caesarea]
+   1 [of Cyrrhus]
+   1 [of Orléans]
+   1 [of Sleswig]
+   1 [sic]
+   1 [sometimes pope]
+   4 a
+a   1 abbes
+a  38 abbess
+a 290 abbot
+a   2 abbots
+a   1 achoret
+   1 ad
+a   1 anchoress
+a  13 anchoret
+a   1 anchorite
+ 382 and
+a  31 apostle
+a   6 apostles
+a   7 archangel
+a   2 archdeacon
+   7 at
+a 1327 bishop
+a  24 bishops
+a   2 boy
+   1 brothers
+a   1 canon
+a   3 cardinal
+   1 children
+   1 church
+   1 companion
+  97 companions
+a 1033 confessor
+a  15 confessors
+a   7 count
+a   1 countess
+   3 daughters
+  20 de
+a  18 deacon
+   1 der
+a   1 disciple
+a   5 duchess
+a   9 duke
+a   4 earl
+   1 eight
+a   6 emperor
+a   8 empress
+   1 en
+a  10 evangelist
+   1 family
+   3 first
+a   7 friar
+   1 her
+a  62 hermit
+   1 his
+a   3 host
+   1 husband
+   2 in
+   1 into
+a  54 king
+   1 l
+   1 la
+   1 le
+a   1 lector
+a   2 marquis
+a 864 martyr
+a 355 martyrs
+a   6 matron
+a  31 monk
+a   3 mother
+a   5 nun
+ 125 of
+   1 or
+a   1 patriarchs
+a   3 penitent
+   1 pius
+a  99 pope
+a   4 popes
+a 157 priest
+a   6 priests
+a   3 prince
+a   3 prior
+a   1 proconsul
+a   3 prophet
+a   6 protomartyr
+a  18 queen
+a   9 recluse
+   8 s
+   1 seven
+a   2 soldier
+   1 son
+   2 sons
+a   1 subdeacon
+   1 ten
+   1 termuthes
+  98 the
+   1 their
+   3 thousand
+   5 to
+a   1 tribune
+   1 under
+   1 van
+a 328 virgin
+a  24 virgins
+a  49 widow
+a   1 wife
+   1 with
