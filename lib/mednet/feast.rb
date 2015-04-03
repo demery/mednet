@@ -187,7 +187,6 @@ module Mednet
     def parse line
       raise "Can't parse nil" if line.nil?
       lexed = lex_line line
-      # puts lexed.pretty_inspect
       parsed_line = build_sections lexed
     end
 
@@ -220,7 +219,6 @@ module Mednet
     end
 
     def remove_tag lexed_line
-      # puts lexed_line.inspect
       loop do
         (curr = lexed_line.shift).first == :close_tag and break
       end
@@ -232,7 +230,6 @@ module Mednet
       sources = []
       mods = []
       state = FEAST_MODE
-      # puts "#{lexed_line}"
       while lexed_line.size > 0
         type, token = lexed_line.first
         case
@@ -281,7 +278,6 @@ module Mednet
       curr_attr = []
       loop do
         type, tokens = lexed_line.first
-        # puts "extract_attrs type: #{type.inspect} token: #{token}"
         if type == :attribute
           tokens.each { |t| curr_attr << t }
           lexed_line.shift
@@ -312,7 +308,6 @@ module Mednet
       paren_level = 0
       loop do
         type, tokens = lexed_line.first
-        # puts "extract_attrs type: #{type.inspect} tokens: #{tokens}"
         if type == :open_paren
           tokens.each { |t|
             curr_mod << t if paren_level > 0
