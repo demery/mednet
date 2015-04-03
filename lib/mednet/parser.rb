@@ -274,15 +274,18 @@ module Mednet
     def extract_feast lexed_line
       feast  = []
       loop do
+        type, values = lexed_line.first
         if attribute_next? lexed_line
           break
         elsif mod_next? lexed_line
           break
         elsif source_next? lexed_line
           break
+        elsif type == :open_tag
+          remove_tag lexed_line
         else
-          token, values = lexed_line.shift
           values.each { |t| feast << t }
+          lexed_line.shift
         end
         # if there's nothing left, bail
         break if lexed_line.size == 0
@@ -299,6 +302,8 @@ module Mednet
         if type == :attribute
           values.each { |v| curr_attr << v }
           lexed_line.shift
+        elsif type == :open_tag
+          remove_tag lexed_line
         elsif source_next? lexed_line
           attrs << format(curr_attr) if curr_attr.size > 0
           break
@@ -318,11 +323,6 @@ module Mednet
       attrs
     end
 
-    def format_mod mod_array
-      mod_array.last == ')' and mod_array.pop
-      format mod_array
-    end
-
     def extract_mods lexed_line
       mods = []
       curr_mod = []
@@ -336,6 +336,8 @@ module Mednet
             paren_level += 1
           }
           lexed_line.shift
+        elsif type == :open_tag
+          remove_tag lexed_line
         elsif type == :close_paren
           values.each { |v|
             curr_mod << v if paren_level > 1
