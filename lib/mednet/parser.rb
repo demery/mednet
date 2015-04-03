@@ -196,6 +196,12 @@ module Mednet
                     :comma
                   ]
 
+    WORDS = [ :attribute,
+              :source,
+              :mod,
+              :word
+            ]
+
     def parse line
       raise "Can't parse nil" if line.nil?
       lexed = lex_line line
@@ -227,10 +233,7 @@ module Mednet
         when MODS_REGEX       then :mod
         when /\w/             then :word
         end
-      }.map { |chk|
-        chk[1] = format(chk.last).strip
-        chk
-      }
+      }.to_a
     end
 
     def remove_tag lexed_line
@@ -278,7 +281,8 @@ module Mednet
         elsif source_next? lexed_line
           break
         else
-          feast << lexed_line.shift.last
+          token, values = lexed_line.shift
+          values.each { |t| feast << t }
         end
         # if there's nothing left, bail
         break if lexed_line.size == 0
@@ -290,10 +294,10 @@ module Mednet
       attrs = []
       curr_attr = []
       loop do
-        type, value = lexed_line.first
+        type, values = lexed_line.first
         # puts "extract_attrs type: #{type.inspect} value: #{value}"
-        if value =~ ATTRIBUTES_REGEX
-          curr_attr << value
+        if type == :attribute
+          values.each { |v| curr_attr << v }
           lexed_line.shift
         elsif source_next? lexed_line
           attrs << format(curr_attr) if curr_attr.size > 0
@@ -306,7 +310,7 @@ module Mednet
           curr_attr.clear
           lexed_line.shift
         else
-          curr_attr << value
+          values.each { |v| curr_attr << v }
           lexed_line.shift
         end
         break if lexed_line.size == 0
@@ -314,24 +318,42 @@ module Mednet
       attrs
     end
 
+    def format_mod mod_array
+      mod_array.last == ')' and mod_array.pop
+      format mod_array
+    end
+
     def extract_mods lexed_line
       mods = []
       curr_mod = []
+      paren_level = 0
       loop do
-        type, value = lexed_line.first
-        # puts "extract_attrs type: #{type.inspect} value: #{value}"
-        if value =~ MODS_REGEX
-          curr_mod << value
+        type, values = lexed_line.first
+        # puts "extract_attrs type: #{type.inspect} values: #{values}"
+        if type == :open_paren
+          values.each { |v|
+            curr_mod << v if paren_level > 0
+            paren_level += 1
+          }
+          lexed_line.shift
+        elsif type == :close_paren
+          values.each { |v|
+            curr_mod << v if paren_level > 1
+            paren_level -= 1
+          }
+          lexed_line.shift
+        elsif type == :mod
+          values.each  { |v| curr_mod << v }
           lexed_line.shift
         elsif source_next? lexed_line
-          mods << format(curr_mod) if curr_mod.size > 0
+            mods << format(curr_mod) if curr_mod.size > 0
           break
         elsif mod_next? lexed_line
           mods << format(curr_mod) if curr_mod.size > 0
           curr_mod.clear
           lexed_line.shift
         else
-          curr_mod << value
+          values.each { |v| curr_mod << v }
           lexed_line.shift
         end
         break if lexed_line.size == 0
@@ -343,8 +365,8 @@ module Mednet
       sources = []
       # consume the rest of the line
       while lexed_line.size > 0
-        type, value = lexed_line.shift
-        sources << value if type == :source
+        type, values = lexed_line.shift
+        values.each { |v| sources << v } if type == :source
       end
       sources
     end
