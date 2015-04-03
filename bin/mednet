@@ -2,26 +2,52 @@
 require 'mednet'
 require 'csv'
 require 'htmlentities'
+require 'axlsx'
 
 parser = Mednet::Feast.new
 
-count = 0
-stop = 40
 
-csv_string = CSV.generate do |csv|
-  csv << %w{ Feast Attributes Modifiers Sources Line }
-  ARGF.each do |line|
-    if line =~ /^\s*<br>/
-      data = parser.parse line
-      row = []
-      row << data.name
-      row << data.attrs.join('|')
-      row << data.mods.join('|')
-      row << data.sources.join('|')
-      row << HTMLEntities.new.decode(line.strip.gsub(/<[^>]*>/,''))
-      csv << row
-    end
+outfile = File.expand_path('../../output/junk.xlsx', __FILE__)
+
+year = Mednet::Year.new ARGV.shift
+
+p = Axlsx::Package.new
+wb = p.workbook
+
+wb.add_worksheet name: 'photos' do |wksh|
+  wksh.add_row %w{ Month Day Feast Attributes Modifiers Sources Line }
+  year.parse.each do |feast|
+    row = []
+    row << feast.month
+    row << feast.day
+    row << feast.name
+    row << feast.attrs.join('|')
+    row << feast.mods.join('|')
+    row << feast.sources.join('|')
+    row << HTMLEntities.new.decode(feast.line.gsub(/<[^>]*>/,''))
+    wksh.add_row row
   end
+  # ugh, override auto column widths
+  widths = (0..7).map { 30 }
+  wksh.column_widths(*widths)
 end
 
-puts csv_string
+p.serialize outfile
+
+puts "Wrote #{outfile}"
+# csv_string = CSV.generate do |csv|
+#   csv << %w{ Month Day Feast Attributes Modifiers Sources Line }
+#   year.parse.each do |feast|
+#     row = []
+#     row << feast.month
+#     row << feast.day
+#     row << feast.name
+#     row << feast.attrs.join('|')
+#     row << feast.mods.join('|')
+#     row << feast.sources.join('|')
+#     row << HTMLEntities.new.decode(feast.line.gsub(/<[^>]*>/,''))
+#     csv << row
+#   end
+# end
+
+# puts csv_string
