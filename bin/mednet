@@ -16,7 +16,7 @@ wb = p.workbook
 
 wb.add_worksheet name: 'photos' do |wksh|
   wksh.add_row %w{ Month Day Feast Attributes Modifiers Sources Line }
-  year.parse.each do |feast|
+  year.each_feast do |feast|
     row = []
     row << feast.month
     row << feast.day
@@ -35,19 +35,3 @@ end
 p.serialize outfile
 
 puts "Wrote #{outfile}"
-# csv_string = CSV.generate do |csv|
-#   csv << %w{ Month Day Feast Attributes Modifiers Sources Line }
-#   year.parse.each do |feast|
-#     row = []
-#     row << feast.month
-#     row << feast.day
-#     row << feast.name
-#     row << feast.attrs.join('|')
-#     row << feast.mods.join('|')
-#     row << feast.sources.join('|')
-#     row << HTMLEntities.new.decode(feast.line.gsub(/<[^>]*>/,''))
-#     csv << row
-#   end
-# end
-
-# puts csv_string
