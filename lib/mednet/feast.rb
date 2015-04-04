@@ -193,8 +193,8 @@ module Mednet
     # Split line into words and punctuation
     def lex_line line
       s = HTMLEntities.new.decode line.strip
-      s.scan(/\w+|[[:punct:]<>]/).map { |s|
-        fix_typo(s) # fix any typos
+      s.scan(/[[:alpha:]]+|[[:punct:]<>]/).map { |x|
+        fix_typo(x) # fix any typos
       }.chunk{ |token|
         case token
         when /\n/             then :endline
@@ -213,7 +213,7 @@ module Mednet
         when ATTRIBUTES_REGEX then :attribute
         when SOURCES_REGEX    then :source
         when MODS_REGEX       then :mod
-        when /\w/             then :word
+        when /[[:alpha:]]+/             then :word
         end
       }.to_a
     end
