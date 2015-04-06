@@ -32,7 +32,7 @@ module Mednet
     end
 
     def each_feast_line
-      return enum_for(:each) unless block_given?
+      return enum_for(:each_feast_line) unless block_given?
 
       File.open file, 'r' do |f|
         f.each do |line|
@@ -47,7 +47,8 @@ module Mednet
     end
 
     def each_feast
-      count = 0
+      return enum_for(:each_feast) unless block_given?
+
       each_feast_line do |feast_line|
         feast       = Feast.new.parse feast_line
         feast.month = date.month
