@@ -187,7 +187,7 @@ module Mednet
     def parse line
       raise "Can't parse nil" if line.nil?
       lexed = lex_line line
-      parsed_line = build_sections lexed
+      build_sections lexed
     end
 
     # Split line into words and punctuation
@@ -220,14 +220,14 @@ module Mednet
 
     def remove_tag lexed_line
       loop do
-        (curr = lexed_line.shift).first == :close_tag and break
+        lexed_line.shift.first == :close_tag and break
       end
     end
 
     def build_sections lexed_line
       name = []
       attrs = []
-      sources = []
+      sources = ''
       mods = []
       state = FEAST_MODE
       while lexed_line.size > 0
@@ -345,25 +345,30 @@ module Mednet
       sources = []
       # consume the rest of the line
       while lexed_line.size > 0
-        type, tokens = lexed_line.shift
-        tokens.each { |t| sources << t }
+        type, tokens = lexed_line.first
+        if type == :open_tag
+          remove_tag lexed_line
+        else
+          tokens.each { |t| sources << t }
+          lexed_line.shift
+        end
       end
       format sources
     end
 
     def attribute_next? lexed_line
-      first, second = lexed_line[0,2].map &:first
+      first, second = lexed_line[0,2].map(&:first)
       [ first, second ] == [ :comma, :attribute ] ||
         [first, second ] == [ :and, :attribute]
     end
 
     def mod_next? lexed_line
-      first, second = lexed_line[0,2].map &:first
+      first, second = lexed_line[0,2].map(&:first)
       [ first, second ]  == [ :open_paren, :mod ]
     end
 
     def source_next? lexed_line
-      first, second = lexed_line[0,2].map &:first
+      first, second = lexed_line[0,2].map(&:first)
       [ first, second ]  == [ :open_bracket, :source ]
     end
 
