@@ -23,7 +23,7 @@ wb.add_worksheet name: 'photos' do |wksh|
     row << feast.name
     row << feast.attrs.join('|')
     row << feast.mods.join('|')
-    row << feast.sources.join('|')
+    row << feast.sources
     row << HTMLEntities.new.decode(feast.line.gsub(/<[^>]*>/,''))
     wksh.add_row row
   end

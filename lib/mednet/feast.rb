@@ -346,9 +346,9 @@ module Mednet
       # consume the rest of the line
       while lexed_line.size > 0
         type, tokens = lexed_line.shift
-        tokens.each { |t| sources << t } if type == :source
+        tokens.each { |t| sources << t }
       end
-      sources
+      format sources
     end
 
     def attribute_next? lexed_line
